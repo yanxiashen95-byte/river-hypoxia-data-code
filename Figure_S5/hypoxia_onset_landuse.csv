@@ -1,0 +1,1643 @@
+file_name,n_events,start_median_shift,end_median_shift,start_median_hour,end_median_hour,start_median_time,end_median_time,latitude,longitude,lc5_point,lc5_name,lc5_dom_2km,lc5_dom_name_2km,p_natural_2km,p_urban_2km,p_other_2km,p_crop_2km,p_wetland_2km,human_share,human_impacted,landuse_group
+10129900,168,27,31,3,7,03:00:00,07:00:00,40.73522634,-111.4760313,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+1043110325021_,4,30,26.5,6,2.5,06:00:00,02:30:00,43.7631,142.275,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+1043110332180_,14,20,18,20,18,20:00:00,18:00:00,42.8325,141.6597,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+1043110332210_,176,34,15,10,15,10:00:00,15:00:00,43.0378,141.355,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+11044000,11,27.5,30,3.5,6,03:30:00,06:00:00,33.4739175,-117.1422536,1,Natural vegetation,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+1104430,1,20,22,20,22,20:00:00,22:00:00,42.3981512,-71.2733903,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+11092450,25,23,30,23,6,23:00:00,06:00:00,34.16167247,-118.466749,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+11126400,22,31,31,7,7,07:00:00,07:00:00,34.5901111,-120.025361,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+11128500,331,27,32,3,8,03:00:00,08:00:00,34.58498706,-120.1445926,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+11152880,5,24,29,0,5,00:00:00,05:00:00,37.04368056,-121.2759028,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+11152900,8,25,27.5,1,3.5,01:00:00,03:30:00,37.0499451,-121.327431,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+11153000,2,26.5,29.5,2.5,5.5,02:30:00,05:30:00,36.98,-121.3802778,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+11273400,24,27.5,26,3.5,2,03:30:00,02:00:00,37.3472151,-120.9761777,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+11509370,360,28,23,4,23,04:00:00,23:00:00,42.12788298,-121.9288769,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+1191000,32,29,33,5,9,05:00:00,09:00:00,41.78443889,-72.7080556,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+12507573,2,30,30,6,6,06:00:00,06:00:00,46.2852222,-120.0919944,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+1302020,5,28,32,4,8,04:00:00,08:00:00,40.86230556,-73.87438889,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+135749950,6,15.5,14.5,15.5,14.5,15:30:00,14:30:00,42.78569444,-73.7104167,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+1402000,8,29,33.5,5,9.5,05:00:00,09:30:00,40.475,-74.5758333,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+14078260,2,24.5,30.5,0.5,6.5,00:30:00,06:30:00,44.062,-120.0433056,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+14151000,1,16,16,16,16,16:00:00,16:00:00,43.94429299,-122.774794,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+14202650,232,22,23,22,23,22:00:00,23:00:00,45.44064167,-123.125,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+14206950,27,21,20,21,20,21:00:00,20:00:00,45.403452,-122.7548185,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+1465798,1,32,33,8,9,08:00:00,09:00:00,40.0569557,-74.9851603,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+1467087,8,26,30,2,6,02:00:00,06:00:00,40.0159454,-75.0968411,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+1473900,11,31,32,7,8,07:00:00,08:00:00,40.1239987,-75.2198992,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+1475548,28,23,27,23,3,23:00:00,03:00:00,39.9327861,-75.2376361,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+1477050,3,27,27,3,3,03:00:00,03:00:00,39.83677934,-75.36630199,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+1484272,497,27,28,3,4,03:00:00,04:00:00,38.791,-75.25077778,1,Natural vegetation,2,Cropland,0.25,0,0,0.5,0.25,0.5,TRUE,Ag-dominated
+1484525,80,26,26,2,2,02:00:00,02:00:00,38.59455556,-75.29102778,3,Urban,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+1552046,11,22.5,27,22.5,3,22:30:00,03:00:00,53.77701,-1.505282,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+1552048,82,25.5,24.5,1.5,0.5,01:30:00,00:30:00,53.75148,-1.42369,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+1574000,3,34,34,10,10,10:00:00,10:00:00,40.0809008,-76.7180813,2,Cropland,2,Cropland,0,0,0.25,0.75,0,0.75,TRUE,Ag-dominated
+1584376,27,22,29,22,5,22:00:00,05:00:00,53.99151,-1.13211,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+1611500,1,34,12,10,12,10:00:00,12:00:00,39.5823158,-78.3097312,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+164579522,4,32,21.5,8,21.5,08:00:00,21:30:00,38.9256,-77.32933889,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+1646000,2,21.5,22.5,21.5,22.5,21:30:00,22:30:00,38.97594346,-77.24581439,1,Natural vegetation,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+1649500,29,27,25.5,3,1.5,03:00:00,01:30:00,38.96025,-76.9259722,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+1654500,3,31,33,7,9,07:00:00,09:00:00,38.81358508,-77.2364549,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+1656903,23,28,30,4,6,04:00:00,06:00:00,38.8823899,-77.4319047,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+1670200,7,20,26,20,2,20:00:00,02:00:00,38.1545801,-77.9502747,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+204025,27,20,34,20,10,20:00:00,10:00:00,-30.2528,153.0333,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2079500,1547,23,28,23,4,23:00:00,04:00:00,36.60319824,-78.2977743,5,Other,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+2081094,27,27.5,21,3.5,21,03:30:00,21:00:00,35.81305556,-76.89277778,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0,0.5,0,FALSE,Natural-dominated
+2098,5,20,28,20,4,20:00:00,04:00:00,40.363954,120.273091,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2100,1,12,12,12,12,12:00:00,12:00:00,30.84969,120.418512,3,Urban,3,Urban,0.25,0.5,0,0.25,0,0.75,TRUE,Urban-dominated
+2101726,608,20,33,20,9,20:00:00,09:00:00,35.73514055,-79.4230754,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2102,26,28,32,4,8,04:00:00,08:00:00,41.1889225,122.1876454,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2106,45,28,32,4,8,04:00:00,08:00:00,30.388179,114.352698,3,Urban,5,Other,0,0.3333333333333333,0.6666666666666666,0,0,0.3333333333333333,TRUE,Mixed
+2107,53,24,32,0,8,00:00:00,08:00:00,34.765515,113.753602,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2108,50,20,32,20,8,20:00:00,08:00:00,30.402384,120.554155,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2110400,577,25,27,1,3,01:00:00,03:00:00,33.953505,-78.71973988,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2110500,128,25,25,1,1,01:00:00,01:00:00,33.9126719,-78.7150175,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2110701,2264,23,23,23,23,23:00:00,23:00:00,33.86100349,-79.0411471,1,Natural vegetation,1,Natural vegetation,0.5,0.25,0,0,0.25,0.25,FALSE,Natural-dominated
+2110704,408,25,22,1,22,01:00:00,22:00:00,33.8326111,-79.0437222,3,Urban,3,Urban,0,0.5,0,0,0.5,0.5,TRUE,Urban-dominated
+2111,1,16,20,16,20,16:00:00,20:00:00,43.628448,126.308376,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+2113,1,28,12,4,12,04:00:00,12:00:00,27.094325,109.614806,5,Other,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+2114,6,14,14,14,14,14:00:00,14:00:00,34.889459,108.989429,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2118,28,24,20,0,20,00:00:00,20:00:00,45.787555,126.752056,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+212054,9,22.5,23,22.5,23,22:30:00,23:00:00,-33.3971,150.0839,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2121,24,28,20,4,20,04:00:00,20:00:00,45.552395,133.281365,2,Cropland,2,Cropland,0.25,0,0,0.5,0.25,0.5,TRUE,Ag-dominated
+212244,158,23,21.5,23,21.5,23:00:00,21:30:00,-33.97944444,150.5591667,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+212250,7,20,31,20,7,20:00:00,07:00:00,-33.87124191,150.2540137,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2122518,33,19.5,23,19.5,23,19:30:00,23:00:00,-34.73666667,149.6794444,2,Cropland,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+2122520,98,23,23,23,23,23:00:00,23:00:00,-34.54592,150.33737,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+212270,10,15,23,15,23,15:00:00,23:00:00,-34.227667,150.252806,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2122711,502,21,23,21,23,21:00:00,23:00:00,-34.7213892,149.7930558,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2122713,209,23,22,23,22,23:00:00,22:00:00,-34.61162,149.88297,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+212274,4,16,22,16,22,16:00:00,22:00:00,-34.57719481,150.5775536,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2123,1,12,12,12,12,12:00:00,12:00:00,31.620979,119.021234,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+212378405,82,23,30,23,6,23:00:00,06:00:00,35.20066667,-80.0618056,5,Other,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2124,37,32,32,8,8,08:00:00,08:00:00,33.626572,114.680083,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2125,4,24,24,0,0,00:00:00,00:00:00,23.366544,104.253525,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2126,13,28,32,4,8,04:00:00,08:00:00,41.149403,121.813325,3,Urban,3,Urban,0,0.6666666666666666,0,0.3333333333333333,0,1,TRUE,Urban-dominated
+2127,11,20,20,20,20,20:00:00,20:00:00,45.905029999999996,126.504213,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+212880025,34,23,27.5,23,3.5,23:00:00,03:30:00,34.9834833,-79.8775806,5,Other,1,Natural vegetation,0.75,0,0.25,0,0,0,FALSE,Natural-dominated
+2129,2,20,14,20,14,20:00:00,14:00:00,33.686867,114.196677,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2129375,4,30.5,30.5,6.5,6.5,06:30:00,06:30:00,34.8662583,-79.878925,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2131,1,12,12,12,12,12:00:00,12:00:00,20.009525,110.375224,4,Wetland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+213211,213,17,25,17,1,17:00:00,01:00:00,-34.046561,151.005328,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2134,1,12,12,12,12,12:00:00,12:00:00,34.183074,108.187798,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2135,6,28,28,4,4,04:00:00,04:00:00,35.909376,119.156486,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2135000,1,20,23,20,23,20:00:00,23:00:00,34.05675,-79.2477222,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0,0.25,0,FALSE,Natural-dominated
+2136,1,16,16,16,16,16:00:00,16:00:00,38.507579,110.896829,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2138,3,28,16,4,16,04:00:00,16:00:00,28.944771,106.741756,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2138520,3,17,23,17,23,17:00:00,23:00:00,35.74125,-81.8352528,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2142,3,20,20,20,20,20:00:00,20:00:00,39.918966,119.631456,5,Other,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+214244102,1,29,29,5,5,05:00:00,05:00:00,35.75719444,-81.08915,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2144,6,28,18,4,18,04:00:00,18:00:00,41.879991,120.98351,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+2145,66,32,32,8,8,08:00:00,08:00:00,25.958516,100.124072,2,Cropland,5,Other,0.25,0,0.5,0.25,0,0.25,FALSE,Mixed
+2145910,109,27,27,3,3,03:00:00,03:00:00,35.01641944,-81.00156389,1,Natural vegetation,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+2147310,37,32,31,8,7,08:00:00,07:00:00,34.59805556,-80.8905556,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+21474095,22,25,24,1,0,01:00:00,00:00:00,34.55801667,-80.8935,1,Natural vegetation,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2147505,17,28,32,4,8,04:00:00,08:00:00,34.5411111,-80.8752778,1,Natural vegetation,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2148,4,20,20,20,20,20:00:00,20:00:00,27.840777,102.269485,4,Wetland,1,Natural vegetation,0.6666666666666666,0.3333333333333333,0,0,0,0.3333333333333333,TRUE,Natural-dominated
+2151,5,28,28,4,4,04:00:00,04:00:00,36.276864,116.117321,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2152131,5,18.5,23,18.5,23,18:30:00,23:00:00,-34.7345,150.284944,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+215220,10,18,18,18,18,18:00:00,18:00:00,-34.72798991,150.5224407,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+215233,57,19,23,19,23,19:00:00,23:00:00,-34.60520243,150.5191395,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2159,19,18,20,18,20,18:00:00,20:00:00,34.749162,110.050793,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2164,11,28,28,4,4,04:00:00,04:00:00,35.004221,118.912242,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2165,286,20,20,20,20,20:00:00,20:00:00,24.360423,117.93156,3,Urban,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+2167600,1,26,28,2,4,02:00:00,04:00:00,34.09930647,-81.5684382,1,Natural vegetation,1,Natural vegetation,0.75,0,0.25,0,0,0,FALSE,Natural-dominated
+2167716,39,28,27,4,3,04:00:00,03:00:00,34.0795843,-81.5617714,5,Other,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2168504,27,28,22,4,22,04:00:00,22:00:00,34.0509822,-81.2095418,3,Urban,3,Urban,0.25,0.5,0.25,0,0,0.5,TRUE,Urban-dominated
+2169000,1,33,18,9,18,09:00:00,18:00:00,34.0140416,-81.0878717,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+2171,148,28,28,4,4,04:00:00,04:00:00,34.177411,116.471647,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2171645,16,24.5,25,0.5,1,00:30:00,01:00:00,33.4275,-79.915,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2172,5,20,20,20,20,20:00:00,20:00:00,30.000985,121.325079,2,Cropland,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+2172002,97,28,29,4,5,04:00:00,05:00:00,33.21491667,-79.9749167,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2173,21,28,28,4,4,04:00:00,04:00:00,27.878331,111.357444,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+2177,2,30,22,6,22,06:00:00,22:00:00,33.352880999999996,115.953353,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2179,1,16,16,16,16,16:00:00,16:00:00,31.87893,120.977622,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2180,1,20,20,20,20,20:00:00,20:00:00,31.391125,113.98047,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2181,12,28,20,4,20,04:00:00,20:00:00,45.618322,122.829592,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2182,1,28,28,4,4,04:00:00,04:00:00,28.950873,105.359266,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2183,11,24,20,0,20,00:00:00,20:00:00,31.861184,117.284922,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2184,25,28,32,4,8,04:00:00,08:00:00,34.879613,117.027314,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2185,43,28,32,4,8,04:00:00,08:00:00,35.538668,116.84332,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2187,95,28,32,4,8,04:00:00,08:00:00,24.067389,116.364039,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2188,100,20,28,20,4,20:00:00,04:00:00,33.731002,120.393063,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2189,6,18,22.25,18,22.25,18:00:00,22:15:00,28.675696,115.909228,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2190,8,20,18,20,18,20:00:00,18:00:00,29.637542,117.303815,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2192,45,28,32,4,8,04:00:00,08:00:00,34.068636,116.25461,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2193,1,32,32,8,8,08:00:00,08:00:00,32.262114,115.392074,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2194,8,28,28,4,4,04:00:00,04:00:00,30.280827,120.135191,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2195,2,12,12,12,12,12:00:00,12:00:00,30.246073,109.493289,1,Natural vegetation,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+2196,22,20,32,20,8,20:00:00,08:00:00,31.579754,121.798307,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2198,6,20,20,20,20,20:00:00,20:00:00,31.193231,121.785769,2,Cropland,3,Urban,0,0.6666666666666666,0.3333333333333333,0,0,0.6666666666666666,TRUE,Urban-dominated
+2199,60,20,28,20,4,20:00:00,04:00:00,31.801399,121.194699,2,Cropland,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+2200,56,20,20,20,20,20:00:00,20:00:00,31.013867,121.754522,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2201,19,28,30,4,6,04:00:00,06:00:00,31.535298,121.6762,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2202,32,20,32,20,8,20:00:00,08:00:00,31.362887,121.745275,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2203,8,28,28,4,4,04:00:00,04:00:00,31.023111,121.041476,3,Urban,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+2203603,12,20,23,20,23,20:00:00,23:00:00,33.68388889,-84.4152778,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2203655,6,19,18,19,18,19:00:00,18:00:00,33.67891667,-84.35813889,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2203800,2,20,22.5,20,22.5,20:00:00,22:30:00,33.6796111,-84.3079444,1,Natural vegetation,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+2203873,5,21.5,19,21.5,19,21:30:00,19:00:00,33.70941667,-84.2391667,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2203900,3,25,26,1,2,01:00:00,02:00:00,33.66577778,-84.224,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+2203950,8,17,22,17,22,17:00:00,22:00:00,33.7632222,-84.2203611,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2204,28,28,28,4,4,04:00:00,04:00:00,31.1155091,120.9170361,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2205,63,20,20,20,20,20:00:00,20:00:00,31.005464,121.12989,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2206,96,20,20,20,20,20:00:00,20:00:00,30.949895,121.204222,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2207160,1,31,32,7,8,07:00:00,08:00:00,33.77327778,-84.0771667,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+2207385,2,15.5,17,15.5,17,15:30:00,17:00:00,33.81527778,-83.99013889,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2208,33,20,20,20,20,20:00:00,20:00:00,31.40073,121.423992,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2209,22,20,28,20,4,20:00:00,04:00:00,30.872458,121.541336,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+2210,24,28,16,4,16,04:00:00,16:00:00,30.96988,121.312408,5,Other,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2211,47,28,28,4,4,04:00:00,04:00:00,31.276424,121.225288,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2212,39,20,20,20,20,20:00:00,20:00:00,24.951581,102.691559,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2215,6,28,28,4,4,04:00:00,04:00:00,23.001322,104.778803,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2222,1,32,12,8,12,08:00:00,12:00:00,39.5163998,106.7539556,5,Other,5,Other,0.25,0.25,0.5,0,0,0.25,FALSE,Mixed
+2228,3,12,20,12,20,12:00:00,20:00:00,40.966814,106.948099,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2231,68,28,32,4,8,04:00:00,08:00:00,39.93045,115.520692,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+223209,5,27,29,3,5,03:00:00,05:00:00,-37.7573062,147.8491161,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+223210,2,14,23,14,23,14:00:00,23:00:00,-37.73756155,147.7109962,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2239501,940,25,32,1,8,01:00:00,08:00:00,29.2149764,-82.0412,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+224203,2,14,24,14,0,14:00:00,00:00:00,-37.76358991,147.3747776,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2245,56,28,28,4,4,04:00:00,04:00:00,39.1393072,117.18897,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2246,10,28,28,4,4,04:00:00,04:00:00,38.871337,117.424182,3,Urban,3,Urban,0,0.6666666666666666,0,0.3333333333333333,0,1,TRUE,Urban-dominated
+224602,167,23,23,23,23,23:00:00,23:00:00,-37.84944444,147.6378972,4,Wetland,2,Cropland,0,0.25,0.25,0.25,0.25,0.5,TRUE,Mixed
+2252,73,28,32,4,8,04:00:00,08:00:00,33.4957895,115.4699245,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+225212,1,31,31,7,7,07:00:00,07:00:00,-38.01068638,146.8810046,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+225236,5,19,31,19,7,19:00:00,07:00:00,-38.00213184,146.7800107,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+225256,11,25.5,24.5,1.5,0.5,01:30:00,00:30:00,-38.00396747,146.9815133,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2253,23,20,28,20,4,20:00:00,04:00:00,33.8752478,116.5802321,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2256,36,20,28,20,4,20:00:00,04:00:00,33.2640607,115.3390767,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2257,9,28,24,4,0,04:00:00,00:00:00,32.6439828,116.9074973,2,Cropland,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+2258,59,20,28,20,4,20:00:00,04:00:00,32.9527884,117.2710932,5,Other,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2259,7,20,28,20,4,20:00:00,04:00:00,33.814464,116.855937,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+226027,11,17.5,23,17.5,23,17:30:00,23:00:00,-38.14491292,147.127818,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2262,9,16,20,16,20,16:00:00,20:00:00,31.647649,117.811618,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2263,6,24,20,0,20,00:00:00,20:00:00,32.724409,119.0894,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2264,56,20,28,20,4,20:00:00,04:00:00,35.071916,118.229582,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2264000,1163,18,31,18,7,18:00:00,07:00:00,28.39056323,-81.5195173,1,Natural vegetation,1,Natural vegetation,0.6666666666666666,0.3333333333333333,0,0,0,0.3333333333333333,TRUE,Natural-dominated
+2264051,119,30,33,6,9,06:00:00,09:00:00,28.37444444,-81.515,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2264100,961,23,25,23,1,23:00:00,01:00:00,28.32528785,-81.5206284,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+226415,16,19,23,19,23,19:00:00,23:00:00,-38.2698709,146.5404981,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2266,62,20,32,20,8,20:00:00,08:00:00,37.280543,118.730288,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+226614,68,21,23,21,23,21:00:00,23:00:00,-38.12684167,147.0755,1,Natural vegetation,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+2266200,868,18,23,18,23,18:00:00,23:00:00,28.38500749,-81.6164632,4,Wetland,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+2266291,498,23,20,23,20,23:00:00,20:00:00,28.42702778,-81.6052778,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2266300,13,22,31,22,7,22:00:00,07:00:00,28.33278738,-81.579796,1,Natural vegetation,3,Urban,0,0.75,0,0,0.25,0.75,TRUE,Urban-dominated
+2266495,410,22,21,22,21,22:00:00,21:00:00,28.27584517,-81.5439622,4,Wetland,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+2267,42,28,32,4,8,04:00:00,08:00:00,35.337055,116.619434,2,Cropland,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+2268,1,16,16,16,16,16:00:00,16:00:00,34.7022325,118.4786666,5,Other,2,Cropland,0,0,0.25,0.75,0,0.75,TRUE,Ag-dominated
+2269,11,28,32,4,8,04:00:00,08:00:00,34.5999124,118.1425578,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2270,26,16,16,16,16,16:00:00,16:00:00,35.651181,115.517942,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2272,4,18,20,18,20,18:00:00,20:00:00,35.80937,119.639585,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+227264,130,18,23,18,23,18:00:00,23:00:00,-38.44973718,145.9571493,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+227270,353,21,22,21,22,21:00:00,22:00:00,-38.43219544,145.7926083,1,Natural vegetation,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+227273,14,27,23,3,23,03:00:00,23:00:00,-38.57365861,145.5105533,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2273,51,28,32,4,8,04:00:00,08:00:00,35.225111,116.513133,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2274,20,28,32,4,8,04:00:00,08:00:00,36.35474,120.524975,2,Cropland,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+2275,16,28,32,4,8,04:00:00,08:00:00,38.010543,117.686232,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2276,8,28,28,4,4,04:00:00,04:00:00,37.701315,118.126414,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2277,41,28,28,4,4,04:00:00,04:00:00,38.063661,117.792787,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2278,41,28,28,4,4,04:00:00,04:00:00,35.346292,116.765526,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2279,11,16,16,16,16,16:00:00,16:00:00,36.868794,118.793639,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2280,1,28,28,4,4,04:00:00,04:00:00,34.507991,118.195764,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2281,14,28,28,4,4,04:00:00,04:00:00,34.862105,116.042865,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2282,4,30,32,6,8,06:00:00,08:00:00,35.431478,116.008235,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2283,7,28,32,4,8,04:00:00,08:00:00,36.937298,119.395341,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2285,11,28,28,4,4,04:00:00,04:00:00,35.03919,116.951152,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2286,8,28,32,4,8,04:00:00,08:00:00,37.620396,117.327253,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2287,112,20,20,20,20,20:00:00,20:00:00,37.255764,118.854524,5,Other,5,Other,0,0,0.75,0,0.25,0,FALSE,Mixed
+2288,26,28,32,4,8,04:00:00,08:00:00,37.44649,116.27445,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2290,28,28,20,4,20,04:00:00,20:00:00,34.638468,115.556362,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2291,14,28,32,4,8,04:00:00,08:00:00,37.025299,116.233597,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+229147,4,27.5,33,3.5,9,03:30:00,09:00:00,-37.6894,145.3233194,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2292,77,28,32,4,8,04:00:00,08:00:00,35.373248,115.88739,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2293,36,28,32,4,8,04:00:00,08:00:00,36.66853,117.020359,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2294,22,28,28,4,4,04:00:00,04:00:00,37.10119,118.065234,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2296,16,28,32,4,8,04:00:00,08:00:00,36.508114,118.537078,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2297,1,28,28,4,4,04:00:00,04:00:00,37.075474,120.471352,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2299,3,28,32,4,8,04:00:00,08:00:00,22.888331,113.267097,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2301500,1,16,22,16,22,16:00:00,22:00:00,27.872248,-82.2112008,1,Natural vegetation,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+2301635,11,29,31,5,7,05:00:00,07:00:00,27.85715556,-82.26858889,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+2302,160,20,28,20,4,20:00:00,04:00:00,24.858987,112.309585,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+230220,53,21,26,21,2,21:00:00,02:00:00,-37.49078,144.73922,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+230240,273,21,23,21,23,21:00:00,23:00:00,-37.57117842,144.7368969,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2303,17,20,16,20,16,20:00:00,16:00:00,23.665131,117.003995,3,Urban,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+2304,4,16,16,16,16,16:00:00,16:00:00,22.979087,115.832299,3,Urban,2,Cropland,0.25,0.25,0,0.5,0,0.75,TRUE,Ag-dominated
+2304000,599,26,22,2,22,02:00:00,22:00:00,28.05446224,-82.3637032,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+2306,22,24,20,0,20,00:00:00,20:00:00,22.238874,112.720441,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2308,3,32,32,8,8,08:00:00,08:00:00,22.800286,114.92215,3,Urban,3,Urban,0.25,0.5,0,0.25,0,0.75,TRUE,Urban-dominated
+2309,235,20,28,20,4,20:00:00,04:00:00,23.447464,116.554572,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2311,58,28,28,4,4,04:00:00,04:00:00,23.064736,113.512709,3,Urban,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+2313700,56,20,20,20,20,20:00:00,20:00:00,29.20413378,-82.769001,4,Wetland,1,Natural vegetation,0.75,0,0,0,0.25,0,FALSE,Natural-dominated
+2314,7,28,28,4,4,04:00:00,04:00:00,23.023376,113.333231,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2315,69,20,20,20,20,20:00:00,20:00:00,22.891775,113.47333,3,Urban,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+2318,109,20,28,20,4,20:00:00,04:00:00,23.028025,113.199715,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2318500,4,18.5,24.5,18.5,0.5,18:30:00,00:30:00,30.79330556,-83.4534444,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2319,2,12,16,12,16,12:00:00,16:00:00,24.347717,113.855428,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+232242,11,23.5,23,23.5,23,23:30:00,23:00:00,-37.86192,144.1318,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2322700,21,31,33,7,9,07:00:00,09:00:00,29.95273288,-82.7859573,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2324,9,28,32,4,8,04:00:00,08:00:00,23.711524,113.217941,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2325,105,20,20,20,20,20:00:00,20:00:00,21.959607,111.675334,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2326516,87,25,23,1,23,01:00:00,23:00:00,30.3397222,-83.9923333,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2326526,60,28,32,4,8,04:00:00,08:00:00,30.3013159,-83.9796085,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2329,138,20,16,20,16,20:00:00,16:00:00,23.015018,114.4862,5,Other,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2330,88,20,28,20,4,20:00:00,04:00:00,22.992944,112.290777,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+233217,22,19,23,19,23,19:00:00,23:00:00,-38.16360559,144.3468922,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+2333,30,28,32,4,8,04:00:00,08:00:00,22.54716,112.97655,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2334,45,20,20,20,20,20:00:00,20:00:00,23.686789,116.887764,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2334430,105,21,29,21,5,21:00:00,05:00:00,34.15666667,-84.0784167,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2336120,6,25,28,1,4,01:00:00,04:00:00,33.83155556,-84.3427778,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2336152,40,21,30.5,21,6.5,21:00:00,06:30:00,33.81044444,-84.2479722,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2336300,3,20,20,20,20,20:00:00,20:00:00,33.82030556,-84.40763889,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2336313,66,25,29,1,5,01:00:00,05:00:00,33.82163889,-84.438638889999993,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2336360,4,31,33.5,7,9.5,07:00:00,09:30:00,33.86916667,-84.37888889,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2336526,19,22,27,22,3,22:00:00,03:00:00,33.7944722,-84.4741944,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2336728,2,30,32,6,8,06:00:00,08:00:00,33.74352778,-84.5681667,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2337170,2,32,22.5,8,22.5,08:00:00,22:30:00,33.65666667,-84.6736111,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2340,76,20,32,20,8,20:00:00,08:00:00,22.997112,112.424484,3,Urban,1,Natural vegetation,0.6666666666666666,0,0,0.3333333333333333,0,0.3333333333333333,TRUE,Natural-dominated
+2341,162,20,24,20,0,20:00:00,00:00:00,22.335273,113.448344,3,Urban,3,Urban,0.3333333333333333,0.6666666666666666,0,0,0,0.6666666666666666,TRUE,Urban-dominated
+23432415,1179,20,22,20,22,20:00:00,22:00:00,31.62219444,-85.0591667,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2344,4,18,20,18,20,18:00:00,20:00:00,24.487936,115.497302,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2344630,38,25,22,1,22,01:00:00,22:00:00,33.35727778,-84.5826111,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2344673,37,28,20,4,20,04:00:00,20:00:00,33.38316667,-84.5727222,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2345,637,20,20,20,20,20:00:00,20:00:00,23.572236,116.392179,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2346,4,28,28,4,4,04:00:00,04:00:00,21.66039,109.136571,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2354,1,32,32,8,8,08:00:00,08:00:00,23.556576,110.390755,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2357,1,32,32,8,8,08:00:00,08:00:00,24.507607,108.884472,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2357150,6,30,22,6,22,06:00:00,22:00:00,30.903,-84.7495,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2358000,2,27,28.5,3,4.5,03:00:00,04:30:00,30.7010251,-84.8590871,5,Other,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2359170,3,21,21,21,21,21:00:00,21:00:00,29.94937094,-85.0154686,1,Natural vegetation,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+2359223,67,26,29,2,5,02:00:00,05:00:00,29.7695111,-85.0842806,4,Wetland,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+2363,1,12,12,12,12,12:00:00,12:00:00,23.415838,111.174427,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2364,1,12,12,12,12,12:00:00,12:00:00,23.850452,109.516111,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2374,2,20,22,20,22,20:00:00,22:00:00,46.473199,82.814172,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2376,2,32,32,8,8,08:00:00,08:00:00,47.329765,87.819778,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2377,67,24,32,0,8,00:00:00,08:00:00,34.060052,120.225024,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2378,2,20,30,20,6,20:00:00,06:00:00,34.786621,116.916933,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2379,36,28,32,4,8,04:00:00,08:00:00,34.087534,120.247992,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2380,4,28,28,4,4,04:00:00,04:00:00,32.331747,119.478663,2,Cropland,3,Urban,0,0.5,0.25,0.25,0,0.75,TRUE,Urban-dominated
+2382,32,20,32,20,8,20:00:00,08:00:00,34.475074,119.284184,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2383,66,20,32,20,8,20:00:00,08:00:00,34.420654,119.501679,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2384,1,16,16,16,16,16:00:00,16:00:00,31.744229,119.803875,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2385,88,20,28,20,4,20:00:00,04:00:00,33.400235,120.126341,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2386,35,28,28,4,4,04:00:00,04:00:00,34.605988,118.482669,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2387,77,20,32,20,8,20:00:00,08:00:00,33.223399,120.2997,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2388,5,28,28,4,4,04:00:00,04:00:00,32.061707,118.763232,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2389,36,20,32,20,8,20:00:00,08:00:00,34.661703,119.182412,3,Urban,3,Urban,0,0.5,0.25,0.25,0,0.75,TRUE,Urban-dominated
+2390,29,28,28,4,4,04:00:00,04:00:00,34.305619,120.05062,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2391,89,28,30,4,6,04:00:00,06:00:00,32.083269,120.333295,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2392,113,20,20,20,20,20:00:00,20:00:00,33.798763,120.34031,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2393,60,20,28,20,4,20:00:00,04:00:00,33.051439,120.798311,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2394682,3,16,16,16,16,16:00:00,16:00:00,34.0789722,-84.8544444,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2395,17,20,28,20,4,20:00:00,04:00:00,34.1666,118.882275,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2396,1,32,32,8,8,08:00:00,08:00:00,34.6214143,118.1051302,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2399,83,20,16,20,16,20:00:00,16:00:00,33.459693,120.58843,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2400,89,28,32,4,8,04:00:00,08:00:00,32.442549,119.550954,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2401,85,20,24,20,0,20:00:00,00:00:00,33.617416,120.47589,2,Cropland,2,Cropland,0,0,0.25,0.75,0,0.75,TRUE,Ag-dominated
+2402,59,28,28,4,4,04:00:00,04:00:00,34.630774,119.157303,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2403,35,28,26,4,2,04:00:00,02:00:00,34.625156,119.171402,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2405,92,20,32,20,8,20:00:00,08:00:00,34.056805,118.804565,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2406,47,28,16,4,16,04:00:00,16:00:00,31.503261,119.838119,2,Cropland,4,Wetland,0,0,0.25,0.25,0.5,0.25,FALSE,Mixed
+2407,18,28,32,4,8,04:00:00,08:00:00,33.39845,119.609473,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2408,68,28,24,4,0,04:00:00,00:00:00,31.894245,120.602195,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+2409,2,22,22,22,22,22:00:00,22:00:00,34.67746,119.151436,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2412,8,28,30,4,6,04:00:00,06:00:00,34.954826,119.144615,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2414,74,28,16,4,16,04:00:00,16:00:00,34.211619,119.580868,3,Urban,3,Urban,0,0.5,0.25,0.25,0,0.75,TRUE,Urban-dominated
+2415,27,20,28,20,4,20:00:00,04:00:00,34.668919,119.459167,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2416,28,20,28,20,4,20:00:00,04:00:00,34.50932,119.751725,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2417,116,20,32,20,8,20:00:00,08:00:00,33.184199,120.701088,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2418,71,28,32,4,8,04:00:00,08:00:00,33.626576,118.994994,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2420,56,28,32,4,8,04:00:00,08:00:00,31.380975,119.639617,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2421,45,28,32,4,8,04:00:00,08:00:00,34.398537,117.179892,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2422,118,20,20,20,20,20:00:00,20:00:00,34.067903,119.367138,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2423571,74,29,23,5,23,05:00:00,23:00:00,33.52093809,-86.7169325,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+2424,20,28,18,4,18,04:00:00,18:00:00,34.786466,119.144453,3,Urban,5,Other,0,0.25,0.5,0.25,0,0.5,TRUE,Mixed
+2426,36,28,32,4,8,04:00:00,08:00:00,31.909695,120.398111,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2427,6,20,26,20,2,20:00:00,02:00:00,32.238702,119.241225,3,Urban,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+2430,79,28,32,4,8,04:00:00,08:00:00,33.351703,120.043331,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2431,3,28,32,4,8,04:00:00,08:00:00,28.720414,115.456909,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2435,68,20,20,20,20,20:00:00,20:00:00,28.296352,117.713131,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+2440,29,28,32,4,8,04:00:00,08:00:00,28.947317,117.572119,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2443,5,28,20,4,20,04:00:00,20:00:00,28.675696,115.909228,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2445,1,32,32,8,8,08:00:00,08:00:00,29.6051759,116.1272585,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2446,5,18,18,18,18,18:00:00,18:00:00,28.941453,117.151076,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2450,10,32,32,8,8,08:00:00,08:00:00,40.3405825,115.5478498,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2453,2,28,28,4,4,04:00:00,04:00:00,38.037057,114.468664,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2454,30,28,32,4,8,04:00:00,08:00:00,37.211118,115.350472,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2456,1,20,20,20,20,20:00:00,20:00:00,34.765515,113.753602,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2458,11,28,22,4,22,04:00:00,22:00:00,33.8193013,116.3484945,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2459,9,28,28,4,4,04:00:00,04:00:00,33.124041,111.460461,3,Urban,1,Natural vegetation,0.3333333333333333,0.3333333333333333,0,0.3333333333333333,0,0.6666666666666666,TRUE,Mixed
+2461,26,28,28,4,4,04:00:00,04:00:00,33.68667,114.16434,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2462,9,24,12,0,12,00:00:00,12:00:00,33.8792895,115.4910372,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2463,2,12,12,12,12,12:00:00,12:00:00,35.850782,113.931199,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+2464,16,28,28,4,4,04:00:00,04:00:00,30.367019,120.221154,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2468,72,28,32,4,8,04:00:00,08:00:00,29.998926,122.215702,3,Urban,3,Urban,0.25,0.5,0.25,0,0,0.5,TRUE,Urban-dominated
+2469,41,24,24,0,0,00:00:00,00:00:00,30.742701,120.487901,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2470,43,28,32,4,8,04:00:00,08:00:00,30.389197,119.953649,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2471,83,20,28,20,4,20:00:00,04:00:00,30.505958,120.948967,5,Other,5,Other,0,0.25,0.5,0.25,0,0.5,TRUE,Mixed
+2472,1,32,32,8,8,08:00:00,08:00:00,28.769243,118.659728,1,Natural vegetation,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+2473,1,32,32,8,8,08:00:00,08:00:00,28.687516,118.813398,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2474,45,20,28,20,4,20:00:00,04:00:00,28.322041,119.704038,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2475,74,28,32,4,8,04:00:00,08:00:00,30.27792,121.31823,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2476,43,20,16,20,16,20:00:00,16:00:00,29.506424,120.897324,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2478,45,28,32,4,8,04:00:00,08:00:00,28.212405,121.101439,1,Natural vegetation,2,Cropland,0,0,0.25,0.5,0.25,0.5,TRUE,Ag-dominated
+2479,23,28,28,4,4,04:00:00,04:00:00,30.921099,120.177691,2,Cropland,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+2480,8,28,28,4,4,04:00:00,04:00:00,28.892731,118.545013,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2481,30,28,18,4,18,04:00:00,18:00:00,30.78938,121.121247,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2482,55,32,14,8,14,08:00:00,14:00:00,30.963576,120.101914,5,Other,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2483,41,28,28,4,4,04:00:00,04:00:00,30.616051,120.805238,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2484,41,20,28,20,4,20:00:00,04:00:00,28.494492,119.833412,1,Natural vegetation,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+2485,1,16,16,16,16,16:00:00,16:00:00,30.8909035,120.1005112,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2486,10,20,24,20,0,20:00:00,00:00:00,28.439517,121.543023,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2487,52,28,20,4,20,04:00:00,20:00:00,30.848742,120.894048,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+2489,1,28,32,4,8,04:00:00,08:00:00,28.401886,119.538611,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2490,11,20,20,20,20,20:00:00,20:00:00,30.724406,120.994556,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2491,1,28,32,4,8,04:00:00,08:00:00,30.736711,120.911908,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2492,19,28,28,4,4,04:00:00,04:00:00,30.939381,120.342285,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2496,32,24,18,0,18,00:00:00,18:00:00,29.907382,120.313331,1,Natural vegetation,3,Urban,0,0.75,0,0,0.25,0.75,TRUE,Urban-dominated
+2497,3,20,28,20,4,20:00:00,04:00:00,30.030173,120.604399,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2498,162,28,32,4,8,04:00:00,08:00:00,30.003568,120.801067,3,Urban,3,Urban,0.25,0.5,0,0.25,0,0.75,TRUE,Urban-dominated
+2499,49,24,20,0,20,00:00:00,20:00:00,30.8849975,120.7095199,3,Urban,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+2500,45,20,24,20,0,20:00:00,00:00:00,30.402274,120.545629,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2501,21,20,28,20,4,20:00:00,04:00:00,30.856484,120.914013,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2502,1,32,32,8,8,08:00:00,08:00:00,30.82326,119.780421,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2503,24,24,28,0,4,00:00:00,04:00:00,30.047365,121.093727,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+2504,36,20,32,20,8,20:00:00,08:00:00,28.165644,121.061852,3,Urban,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+2506,2,20,22,20,22,20:00:00,22:00:00,29.622386,119.815549,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2507,8,22,16,22,16,22:00:00,16:00:00,30.301193,119.973122,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2509,135,20,20,20,20,20:00:00,20:00:00,30.505918,120.948956,5,Other,5,Other,0,0.25,0.5,0.25,0,0.5,TRUE,Mixed
+2510,1,16,16,16,16,16:00:00,16:00:00,28.186588,119.602925,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2511,82,20,20,20,20,20:00:00,20:00:00,30.814378,121.102536,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2513,3,28,32,4,8,04:00:00,08:00:00,19.624334,110.717366,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+2518,2,28,28,4,4,04:00:00,04:00:00,19.882588,110.416458,5,Other,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2519,19,30,20,6,20,06:00:00,20:00:00,30.359787,115.159707,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2520,16,24,20,0,20,00:00:00,20:00:00,30.775926,113.43734,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2521,2,30,32,6,8,06:00:00,08:00:00,30.425803,115.027978,3,Urban,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+2522,41,32,32,8,8,08:00:00,08:00:00,32.059363,112.382843,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2523,8,24,20,0,20,00:00:00,20:00:00,30.1823,112.866681,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2524,150,28,16,4,16,04:00:00,16:00:00,31.664417,112.184187,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2525,68,28,20,4,20,04:00:00,20:00:00,30.164666,113.892022,2,Cropland,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+2526,7,28,14,4,14,04:00:00,14:00:00,30.278016,113.109137,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2527,139,20,20,20,20,20:00:00,20:00:00,30.264433,113.791834,2,Cropland,2,Cropland,0.25,0,0,0.5,0.25,0.5,TRUE,Ag-dominated
+2529,1,20,32,20,8,20:00:00,08:00:00,30.262804,115.423717,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2531,14,24,20,0,20,00:00:00,20:00:00,30.395714,114.092344,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2536,79,20,28,20,4,20:00:00,04:00:00,26.433311,118.623307,5,Other,1,Natural vegetation,0.75,0,0.25,0,0,0,FALSE,Natural-dominated
+2542,6,12,12,12,12,12:00:00,12:00:00,26.205703,119.555245,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2554,1,16,16,16,16,16:00:00,16:00:00,27.017328,108.63525,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2555,1,16,16,16,16,16:00:00,16:00:00,26.768079,107.879014,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+2556,1,16,20,16,20,16:00:00,20:00:00,25.282076,105.533786,1,Natural vegetation,1,Natural vegetation,0.6666666666666666,0,0,0.3333333333333333,0,0.3333333333333333,TRUE,Natural-dominated
+2559,8,28,18,4,18,04:00:00,18:00:00,41.251133,122.63783,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2560,6,28,28,4,4,04:00:00,04:00:00,41.265244,123.704185,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+2561,1,32,32,8,8,08:00:00,08:00:00,40.544025,120.708427,5,Other,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+2564,1,12,12,12,12,12:00:00,12:00:00,40.317253,124.659946,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+2566,4,16,18,16,18,16:00:00,18:00:00,41.003403,122.507547,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2567,39,28,28,4,4,04:00:00,04:00:00,41.864105,123.868182,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2570,14,28,28,4,4,04:00:00,04:00:00,40.619733,119.485351,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2571,5,28,32,4,8,04:00:00,08:00:00,42.2059018,123.5529584,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2572,2,30,30,6,6,06:00:00,06:00:00,41.599141,120.69456,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2573,1,16,16,16,16,16:00:00,16:00:00,40.607377,120.762881,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+2575,2,20,20,20,20,20:00:00,20:00:00,40.6805983,122.217647,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+2576,7,20,28,20,4,20:00:00,04:00:00,41.835441,123.42944,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2577,35,28,28,4,4,04:00:00,04:00:00,41.433116,122.753617,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2580,1,28,16,4,16,04:00:00,16:00:00,48.258915,134.6728087,4,Wetland,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2583,7,24,32,0,8,00:00:00,08:00:00,46.003555,126.646118,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2584,2,22,16,22,16,22:00:00,16:00:00,53.480873,122.3556112,3,Urban,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+2586,118,20,20,20,20,20:00:00,20:00:00,31.392691,121.522058,5,Other,5,Other,0,0.3333333333333333,0.6666666666666666,0,0,0.3333333333333333,TRUE,Mixed
+2587,16,28,16,4,16,04:00:00,16:00:00,30.924535,121.571838,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2588,1,12,12,12,12,12:00:00,12:00:00,31.032082,120.872697,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2589,69,20,20,20,20,20:00:00,20:00:00,31.241434,121.476553,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2591,314,28,32,4,8,04:00:00,08:00:00,24.946646,102.706839,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+2592,1,20,20,20,20,20:00:00,20:00:00,27.17941,99.151708,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2593,8,28,30,4,6,04:00:00,06:00:00,24.195343,103.108814,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2595,3,32,32,8,8,08:00:00,08:00:00,26.341758,103.264753,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2596,8,24,18,0,18,00:00:00,18:00:00,27.188602,100.904089,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2601,28,16,16,16,16,16:00:00,16:00:00,26.861431,100.220307,3,Urban,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+2604,4,20,28,20,4,20:00:00,04:00:00,25.568941,100.178267,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2605,37,28,28,4,4,04:00:00,04:00:00,24.200715,102.4234,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2607,230,28,32,4,8,04:00:00,08:00:00,24.824166,102.7676,3,Urban,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+2608,49,28,20,4,20,04:00:00,20:00:00,25.59304,100.221316,3,Urban,1,Natural vegetation,0.5,0.25,0.25,0,0,0.25,FALSE,Natural-dominated
+2609,3,16,12,16,12,16:00:00,12:00:00,27.795905,99.813832,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2613,156,28,28,4,4,04:00:00,04:00:00,24.924339,102.725061,5,Other,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2614,24,28,28,4,4,04:00:00,04:00:00,25.220989,102.505553,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2616,1,16,16,16,16,16:00:00,16:00:00,23.262287,99.676621,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2617,104,28,32,4,8,04:00:00,08:00:00,25.337579,103.233232,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2618,5,28,32,4,8,04:00:00,08:00:00,28.598761,103.971257,3,Urban,1,Natural vegetation,0.5,0,0.25,0,0.25,0,FALSE,Natural-dominated
+2624,12,28,32,4,8,04:00:00,08:00:00,26.743353,103.505731,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2626,26,20,20,20,20,20:00:00,20:00:00,24.992944,102.654327,3,Urban,3,Urban,0,0.5,0,0,0.5,0.5,TRUE,Urban-dominated
+2630,1,32.5,12.5,8.5,12.5,08:30:00,12:30:00,24.111735,102.75097,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2632,123,28,28,4,4,04:00:00,04:00:00,24.155922,102.446686,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2634,275,28,32,4,8,04:00:00,08:00:00,26.943372,100.620865,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2636,2,28,30,4,6,04:00:00,06:00:00,25.717534,100.238235,1,Natural vegetation,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2642,30,28,28,4,4,04:00:00,04:00:00,25.041489,102.748474,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2643,1,32,32,8,8,08:00:00,08:00:00,25.211904,102.47833,1,Natural vegetation,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+2645,20,24,28,0,4,00:00:00,04:00:00,24.448543,103.436917,2,Cropland,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+2646,12,18,28,18,4,18:00:00,04:00:00,26.890883,100.219753,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+2647,1,12,12,12,12,12:00:00,12:00:00,24.85047,101.999503,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2648,35,28,16,4,16,04:00:00,16:00:00,25.019045,102.682976,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2649,14,28,28,4,4,04:00:00,04:00:00,24.666808,98.233033,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2650,1,20,20,20,20,20:00:00,20:00:00,25.771733,103.920583,5,Other,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+2651,11,28,28,4,4,04:00:00,04:00:00,26.588653,100.188942,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2652,38,20,20,20,20,20:00:00,20:00:00,23.255495,104.487444,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2653,20,28,32,4,8,04:00:00,08:00:00,23.018383,103.344087,3,Urban,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2655,92,28,32,4,8,04:00:00,08:00:00,25.029147,102.678433,3,Urban,3,Urban,0,0.75,0,0,0.25,0.75,TRUE,Urban-dominated
+2658,22,20,12,20,12,20:00:00,12:00:00,23.900462,106.15664,5,Other,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2660,8,14,16,14,16,14:00:00,16:00:00,27.559972,99.035696,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2661,34,28,32,4,8,04:00:00,08:00:00,24.876459,102.477035,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2665,3,28,32,4,8,04:00:00,08:00:00,24.396192,98.518682,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2669,30,28,30,4,6,04:00:00,06:00:00,25.090788,103.134416,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2670,6,16,16,16,16,16:00:00,16:00:00,26.93877,100.061806,1,Natural vegetation,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2673,2,30,32,6,8,06:00:00,08:00:00,40.819102,111.664859,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2681,21,28,32,4,8,04:00:00,08:00:00,39.673915,116.526519,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2685,15,20,20,20,20,20:00:00,20:00:00,39.834406,116.425261,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2687,60,28,32,4,8,04:00:00,08:00:00,39.735711,116.903395,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2688,1,32,32,8,8,08:00:00,08:00:00,39.899404,116.44061,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2689,1,12,12,12,12,12:00:00,12:00:00,40.309662,116.592811,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2690,17,28,28,4,4,04:00:00,04:00:00,39.907408,116.618333,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2691,16,20,20,20,20,20:00:00,20:00:00,39.7572,116.03895,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2692,96,28,32,4,8,04:00:00,08:00:00,40.026901,116.349049,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2693,5,28,32,4,8,04:00:00,08:00:00,39.941767,116.32528,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2694,54,28,20,4,20,04:00:00,20:00:00,40.412399,116.305631,1,Natural vegetation,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+2695,94,28,32,4,8,04:00:00,08:00:00,39.654948,116.574886,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2696,50,28,28,4,4,04:00:00,04:00:00,39.977668,116.365688,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2697,1,28,28,4,4,04:00:00,04:00:00,40.430962,115.959848,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2699,7,28,26,4,2,04:00:00,02:00:00,39.956847,116.39537,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2701,2,28,28,4,4,04:00:00,04:00:00,41.722564,125.941497,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2702,5,16,28,16,4,16:00:00,04:00:00,44.682265,123.168748,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2704,2,20,NA,20,NA,20:00:00,NA,44.598827,125.944944,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2705,32,28,20,4,20,04:00:00,20:00:00,44.758751,125.680294,2,Cropland,2,Cropland,0,0,0,0.75,0.25,0.75,TRUE,Ag-dominated
+2707,13,16,28,16,4,16:00:00,04:00:00,43.252547,124.374963,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2709,2,18,18,18,18,18:00:00,18:00:00,43.667467,126.657307,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2714,2,16,22,16,22,16:00:00,22:00:00,44.42767,126.363826,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2716,10,28,20,4,20,04:00:00,20:00:00,45.704479,124.033104,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2717,2,26,26,2,2,02:00:00,02:00:00,43.342228,125.288981,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2722,10,16,24,16,0,16:00:00,00:00:00,44.835289,126.530466,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2723,12,28,32,4,8,04:00:00,08:00:00,41.470043,126.137606,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2726,1,12,NA,12,NA,12:00:00,NA,43.829095,126.56626,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2727,64,20,20,20,20,20:00:00,20:00:00,43.896536,125.32599,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2728,1,28,12,4,12,04:00:00,12:00:00,44.348903,126.741232,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2734,2,28,30,4,6,04:00:00,06:00:00,43.651058,125.886685,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2736,1,32,32,8,8,08:00:00,08:00:00,30.913256,104.394305,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2738,1,28,28,4,4,04:00:00,04:00:00,31.938295,106.016657,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2741,2,16,16,16,16,16:00:00,16:00:00,29.106833,105.649307,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+2742,1,32,12,8,12,08:00:00,12:00:00,32.386776,105.739457,1,Natural vegetation,2,Cropland,0.25,0.25,0,0.5,0,0.75,TRUE,Ag-dominated
+2743,1,16,16,16,16,16:00:00,16:00:00,28.46181,105.617896,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2744,14,20,20,20,20,20:00:00,20:00:00,31.09342,102.864996,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2745,8,20,20,20,20,20:00:00,20:00:00,30.057141,101.077814,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2747,2,30,30,6,6,06:00:00,06:00:00,30.499615,104.035727,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+2750,37,28,32,4,8,04:00:00,08:00:00,31.141915,102.423009,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2753,7,16,16,16,16,16:00:00,16:00:00,30.899389,103.960365,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2756,15,28,12,4,12,04:00:00,12:00:00,27.965618,102.131198,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2757,17,26.25,20,2.25,20,02:15:00,20:00:00,30.45568,104.003892,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2760,1,12,12,12,12,12:00:00,12:00:00,30.651651,104.075931,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2761,4,20,16,20,16,20:00:00,16:00:00,31.31484,104.400543,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2766,1,12,12,12,12,12:00:00,12:00:00,30.381788,103.869644,2,Cropland,2,Cropland,0.25,0.25,0,0.5,0,0.75,TRUE,Ag-dominated
+2768,21,28,32,4,8,04:00:00,08:00:00,27.888273,102.251128,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2770,4,28,32,4,8,04:00:00,08:00:00,31.376229,104.896536,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2772,5,20,20,20,20,20:00:00,20:00:00,31.676821,107.62806,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2783,1,28,16,4,16,04:00:00,16:00:00,31.286621,105.271433,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2786,4,20,24,20,0,20:00:00,00:00:00,28.887274,105.401685,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+2789,1,32,12,8,12,08:00:00,12:00:00,28.898659,104.95491,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2791,39,28,32,4,8,04:00:00,08:00:00,31.028382,106.619841,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2793,2,30,30,6,6,06:00:00,06:00:00,29.891922,104.636796,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2794,1,32,32,8,8,08:00:00,08:00:00,31.040764,106.862146,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+2795,1,12,12,12,12,12:00:00,12:00:00,31.065617,105.190887,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2799,11,30,32,6,8,06:00:00,08:00:00,31.535904,104.372125,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2801,4,22,32,22,8,22:00:00,08:00:00,29.401596,103.827306,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2803,9,28,16,4,16,04:00:00,16:00:00,32.389563,105.781436,1,Natural vegetation,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+2805,3,12,16,12,16,12:00:00,16:00:00,32.189997,105.415702,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2806,9,28,16,4,16,04:00:00,16:00:00,31.018642,104.859137,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2807,5,28,32,4,8,04:00:00,08:00:00,30.558761,105.511944,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2808,47,28,16,4,16,04:00:00,16:00:00,30.321626,105.340003,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2817,1,16,16,16,16,16:00:00,16:00:00,26.5972815,101.5065686,5,Other,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2819,22,20,32,20,8,20:00:00,08:00:00,40.030984,117.613633,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2820,9,28,24,4,0,04:00:00,00:00:00,40.040942,117.498843,5,Other,5,Other,0,0.25,0.5,0,0.25,0.25,FALSE,Mixed
+2821,95,28,32,4,8,04:00:00,08:00:00,39.150547,117.160843,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2822,16,28,32,4,8,04:00:00,08:00:00,38.763512,117.565847,4,Wetland,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+2823,51,28,32,4,8,04:00:00,08:00:00,39.177685,117.178687,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2825,15,32,30,8,6,08:00:00,06:00:00,38.075104,114.295174,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2826,102,20,20,20,20,20:00:00,20:00:00,39.057732,117.656499,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2827,47,28,32,4,8,04:00:00,08:00:00,39.162712,117.172691,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2828,9,20,28,20,4,20:00:00,04:00:00,39.399788,117.364817,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2830,2,32,32,8,8,08:00:00,08:00:00,40.037261,117.444056,5,Other,3,Urban,0,0.75,0,0,0.25,0.75,TRUE,Urban-dominated
+2831,39,28,28,4,4,04:00:00,04:00:00,38.575858,117.311264,4,Wetland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2832,50,20,28,20,4,20:00:00,04:00:00,39.099467,117.236295,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2833,61,28,28,4,4,04:00:00,04:00:00,39.047531,117.345251,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2834,32,20,28,20,4,20:00:00,04:00:00,39.880008,117.401466,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2835,37,28,32,4,8,04:00:00,08:00:00,38.689473,117.107112,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2836,36,20,28,20,4,20:00:00,04:00:00,38.987431,117.719872,5,Other,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2837,49,28,28,4,4,04:00:00,04:00:00,39.084158,117.200983,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2838,2,22,24,22,0,22:00:00,00:00:00,40.135123,117.975537,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2840,1,16,NA,16,NA,16:00:00,NA,38.813644,106.67004,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2843,6,28,32,4,8,04:00:00,08:00:00,35.834736,106.8165,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2844,1,20,20,20,20,20:00:00,20:00:00,37.481685,105.563539,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2845,2,12,32,12,8,12:00:00,08:00:00,38.44729,106.29814,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2850,57,28,28,4,4,04:00:00,04:00:00,31.502262,117.258837,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2851,59,28,28,4,4,04:00:00,04:00:00,30.758719,118.686325,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2852,28,20,30,20,6,20:00:00,06:00:00,31.577988,117.87603,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2853,29,28,32,4,8,04:00:00,08:00:00,31.95972,117.499594,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2855,35,28,32,4,8,04:00:00,08:00:00,33.51521,116.943445,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2856,5,30,32,6,8,06:00:00,08:00:00,30.20963,116.914531,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2857,4,30,24,6,0,06:00:00,00:00:00,32.388833,116.429457,2,Cropland,2,Cropland,0,0,0.25,0.75,0,0.75,TRUE,Ag-dominated
+2859,16,32,28,8,4,08:00:00,04:00:00,32.199777,118.417907,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2861,3,24,32,0,8,00:00:00,08:00:00,33.127823,117.879486,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2862,24,28,32,4,8,04:00:00,08:00:00,32.605506,116.764262,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2864,31,28,24,4,0,04:00:00,00:00:00,30.584347,117.078305,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2865,104,28,20,4,20,04:00:00,20:00:00,33.262629,117.804218,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2866,113,28,32,4,8,04:00:00,08:00:00,33.85356,117.280926,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2867,56,28,28,4,4,04:00:00,04:00:00,33.138513,116.19039,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2868,1,28,32,4,8,04:00:00,08:00:00,31.016411,118.952277,2,Cropland,2,Cropland,0.25,0,0,0.5,0.25,0.5,TRUE,Ag-dominated
+2869,14,20,32,20,8,20:00:00,08:00:00,31.410873,116.91384,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2870,17,30,32,6,8,06:00:00,08:00:00,30.128011,116.618304,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2872,63,28,16,4,16,04:00:00,16:00:00,31.76996,118.355088,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2873,47,28,28,4,4,04:00:00,04:00:00,31.861184,117.284922,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2875,1,12,12,12,12,12:00:00,12:00:00,31.095417,116.90207,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2876,43,18,20,18,20,18:00:00,20:00:00,30.024119,116.34803,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2877,6,28,26,4,2,04:00:00,02:00:00,32.373979,116.498832,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2878,57,20,28,20,4,20:00:00,04:00:00,32.704886,119.026529,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2880,1,16,16,16,16,16:00:00,16:00:00,31.549437,118.479184,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2882,8,32,32,8,8,08:00:00,08:00:00,33.4530255,117.8850083,1,Natural vegetation,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2883,52,28,28,4,4,04:00:00,04:00:00,33.34421,116.426383,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2884,52,20,28,20,4,20:00:00,04:00:00,32.350232,116.273076,3,Urban,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+2885,66,28,28,4,4,04:00:00,04:00:00,33.840665,115.791037,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+2886,42,28,28,4,4,04:00:00,04:00:00,31.15702,117.439766,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+2888,3,22,14,22,14,22:00:00,14:00:00,31.484455,118.492964,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2889,64,28,32,4,8,04:00:00,08:00:00,31.714434,118.319357,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2890,2,22,22,22,22,22:00:00,22:00:00,32.271894,116.220503,2,Cropland,2,Cropland,0,0,0.25,0.75,0,0.75,TRUE,Ag-dominated
+2891,9,18,20,18,20,18:00:00,20:00:00,32.775789,117.103527,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2893,3,24,32,0,8,00:00:00,08:00:00,31.98873,117.087304,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2894,8,28,28,4,4,04:00:00,04:00:00,29.961077,118.504612,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2895,120,20,28,20,4,20:00:00,04:00:00,31.683019,117.471625,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2896,80,28,32,4,8,04:00:00,08:00:00,30.771958,117.410646,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2897,27,32,32,8,8,08:00:00,08:00:00,31.769141,117.754946,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2899,6,28,32,4,8,04:00:00,08:00:00,30.27099,116.669977,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2900,8,16,20,16,20,16:00:00,20:00:00,31.618256,117.2443,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2901,13,26,12,2,12,02:00:00,12:00:00,30.593188,114.273591,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+2902,4,20,26,20,2,20:00:00,02:00:00,31.332876,117.096014,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2903,1,28,16,4,16,04:00:00,16:00:00,30.691628,118.98031,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+29033,3,30,32,6,8,06:00:00,08:00:00,54.38959,-1.655021,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2904,48,20,20,20,20,20:00:00,20:00:00,32.502665,116.521698,5,Other,2,Cropland,0,0,0.25,0.75,0,0.75,TRUE,Ag-dominated
+29040,4,15,18,15,18,15:00:00,18:00:00,53.81909,-0.9290913,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+29041,61,26,27,2,3,02:00:00,03:00:00,53.72318,-1.192203,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+29043,24,26,23,2,23,02:00:00,23:00:00,53.14185,-0.7950109,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+29044,99,21,27.5,21,3.5,21:00:00,03:30:00,53.727,-1.381586,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2905,5,26,32,2,8,02:00:00,08:00:00,31.18298,118.794129,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2906,1,32,32,8,8,08:00:00,08:00:00,30.991272,119.936981,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2908,22,20,28,20,4,20:00:00,04:00:00,30.459931,118.245551,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2909,12,32,32,8,8,08:00:00,08:00:00,33.637904,116.048247,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2910,103,20,32,20,8,20:00:00,08:00:00,32.288364,118.315567,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+2911,96,20,32,20,8,20:00:00,08:00:00,33.540418,115.637255,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2912,1,12,20,12,20,12:00:00,20:00:00,31.08593,119.031442,2,Cropland,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2913,15,28,32,4,8,04:00:00,08:00:00,32.570486,116.5909,4,Wetland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2914,5,28,26,4,2,04:00:00,02:00:00,31.645018,117.858773,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2915,1,28,32,4,8,04:00:00,08:00:00,29.699942,118.293416,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2916,2,32,32,8,8,08:00:00,08:00:00,32.407674,116.887689,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2917,41,28,32,4,8,04:00:00,08:00:00,38.879326,116.001576,4,Wetland,4,Wetland,0,0,0.5,0,0.5,0,FALSE,Mixed
+2918,7,28,28,4,4,04:00:00,04:00:00,30.4956203,117.0053119,5,Other,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+2919,6,20,28,20,4,20:00:00,04:00:00,30.509513,117.000948,2,Cropland,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+2920,60,20,28,20,4,20:00:00,04:00:00,32.059642,116.807275,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2921,4,24,28,0,4,00:00:00,04:00:00,32.641579,116.915776,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2922,58,28,32,4,8,04:00:00,08:00:00,33.753156,116.979217,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2924,62,28,28,4,4,04:00:00,04:00:00,29.763863,118.366667,1,Natural vegetation,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+2925,29,20,32,20,8,20:00:00,08:00:00,31.785615,117.154467,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2926,13,28,32,4,8,04:00:00,08:00:00,33.483853,117.215577,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2928,5,32,32,8,8,08:00:00,08:00:00,31.130526,118.012738,1,Natural vegetation,1,Natural vegetation,0.5,0.25,0.25,0,0,0.25,FALSE,Natural-dominated
+2929,2,22,22,22,22,22:00:00,22:00:00,30.832508,117.091176,5,Other,5,Other,0,0,0.75,0,0.25,0,FALSE,Mixed
+2930,61,20,20,20,20,20:00:00,20:00:00,33.316899,117.316955,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2932,2,28,28,4,4,04:00:00,04:00:00,32.045256,116.621515,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2933,55,28,32,4,8,04:00:00,08:00:00,33.219622,116.067254,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2934,4,16,16,16,16,16:00:00,16:00:00,31.229151,118.288408,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2936,76,28,32,4,8,04:00:00,08:00:00,31.630932,118.517796,2,Cropland,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+2937,50,28,32,4,8,04:00:00,08:00:00,32.658297,115.595644,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2938,114,20,32,20,8,20:00:00,08:00:00,31.71867,118.521306,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2939,18,28,32,4,8,04:00:00,08:00:00,32.912195,115.867791,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2940,1,16,16,16,16,16:00:00,16:00:00,31.589232,117.271944,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2941,1,20,20,20,20,20:00:00,20:00:00,31.539384,116.332494,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2943,37,20,28,20,4,20:00:00,04:00:00,30.934479,117.926587,2,Cropland,3,Urban,0.25,0.5,0,0.25,0,0.75,TRUE,Urban-dominated
+2944,36,16,16,16,16,16:00:00,16:00:00,31.449897,116.423277,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2946,16,28,16,4,16,04:00:00,16:00:00,29.992903,116.466746,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2947,1,32,20,8,20,08:00:00,20:00:00,31.657076,117.545139,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2948,68,28,32,4,8,04:00:00,08:00:00,33.103036,116.867173,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2949,1,32,32,8,8,08:00:00,08:00:00,29.905695,115.966227,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2951,183,28,28,4,4,04:00:00,04:00:00,35.545375,116.827792,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2952,8,20,18,20,18,20:00:00,18:00:00,36.665194,117.065407,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2953,4,24,20,0,20,00:00:00,20:00:00,36.074312,118.753745,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2954,6,20,28,20,4,20:00:00,04:00:00,34.764207,118.710756,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2956,16,28,28,4,4,04:00:00,04:00:00,38.018599,118.909417,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2957,6,32,32,8,8,08:00:00,08:00:00,36.94308,118.106575,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2959,14,28,28,4,4,04:00:00,04:00:00,34.90613,117.237479,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2960,132,28,28,4,4,04:00:00,04:00:00,35.496218,118.818401,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+2961,73,28,32,4,8,04:00:00,08:00:00,35.341198,119.454681,3,Urban,3,Urban,0,0.5,0.25,0.25,0,0.75,TRUE,Urban-dominated
+2962,1,16,16,16,16,16:00:00,16:00:00,36.467925,119.51198,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2963,19,20,16,20,16,20:00:00,16:00:00,37.41156,116.317671,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+2964,26,20,18,20,18,20:00:00,18:00:00,37.505466,117.86615,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2965,7,28,28,4,4,04:00:00,04:00:00,36.748637,115.927885,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2966,59,20,28,20,4,20:00:00,04:00:00,36.665439,116.839637,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2967,4,32,14,8,14,08:00:00,14:00:00,35.389133,116.593313,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2968,164,20,20,20,20,20:00:00,20:00:00,36.584928,121.025384,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+2969,9,28,20,4,20,04:00:00,20:00:00,35.104323,116.999244,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+2970,10,28,30,4,6,04:00:00,06:00:00,35.093029,116.390365,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2971,1,20,20,20,20,20:00:00,20:00:00,36.007278,112.369528,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2972,2,28,24,4,0,04:00:00,00:00:00,35.6432,111.311222,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2974,16,20,20,20,20,20:00:00,20:00:00,39.385192,112.7273,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2975,2,26,30,2,6,02:00:00,06:00:00,37.391903,110.638294,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2976,8,20,28,20,4,20:00:00,04:00:00,39.046414,112.928209,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2977,38,20,28,20,4,20:00:00,04:00:00,36.851836,112.904166,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2979,36,28,28,4,4,04:00:00,04:00:00,39.881319,113.436835,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2980,13,28,28,4,4,04:00:00,04:00:00,37.011252,112.659155,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2982,13,28,28,4,4,04:00:00,04:00:00,37.061278,111.84924,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+2984,47,28,28,4,4,04:00:00,04:00:00,35.804568,112.091637,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2985,108,28,28,4,4,04:00:00,04:00:00,36.262111,112.893756,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2988,18,28,28,4,4,04:00:00,04:00:00,35.721123,110.611691,1,Natural vegetation,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+2989,17,20,28,20,4,20:00:00,04:00:00,38.507979,112.970149,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2990,1,32,32,8,8,08:00:00,08:00:00,35.802291,112.325978,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+2991,33,20,20,20,20,20:00:00,20:00:00,34.827824,110.350121,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+2992,15,24,28,0,4,00:00:00,04:00:00,38.204692,111.790879,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2993,38,28,28,4,4,04:00:00,04:00:00,40.248502,112.313511,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2994,4,12,12,12,12,12:00:00,12:00:00,37.116438,111.938469,2,Cropland,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+2996,7,28,20,4,20,04:00:00,20:00:00,40.527234,114.26629,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+2997,2,20,32,20,8,20:00:00,08:00:00,38.08174,111.885129,5,Other,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+2999,2,16,20,16,20,16:00:00,20:00:00,37.545849,112.623635,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3001,10,18,20,18,20,18:00:00,20:00:00,37.848604,113.648897,3,Urban,3,Urban,0.25,0.5,0,0.25,0,0.75,TRUE,Urban-dominated
+3002,3,32,30,8,6,08:00:00,06:00:00,38.602968,110.89649,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3004,8,20.5,28,20.5,4,20:30:00,04:00:00,38.349717,112.736862,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3005,13,28,28,4,4,04:00:00,04:00:00,38.437547,112.760715,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3007,26,28,28,4,4,04:00:00,04:00:00,37.473111,112.332332,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3009,6,20,24,20,0,20:00:00,00:00:00,34.787733,110.74778,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3012,133,28,32,4,8,04:00:00,08:00:00,23.663332,117.010667,5,Other,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+3014,104,28,32,4,8,04:00:00,08:00:00,22.888408,115.670252,5,Other,5,Other,0.25,0,0.5,0.25,0,0.25,FALSE,Mixed
+3015,84,28,32,4,8,04:00:00,08:00:00,20.874187,110.065695,2,Cropland,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3017,1,16,16,16,16,16:00:00,16:00:00,23.557082,113.573502,3,Urban,3,Urban,0.25,0.5,0,0.25,0,0.75,TRUE,Urban-dominated
+3018,2,24,16,0,16,00:00:00,16:00:00,21.788581,111.940695,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3019,17,32,32,8,8,08:00:00,08:00:00,23.123124,113.804508,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3020,16,28,22,4,22,04:00:00,22:00:00,22.528784,113.3708,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3021,2,28,32,4,8,04:00:00,08:00:00,21.426139,110.797865,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3022,91,20,28,20,4,20:00:00,04:00:00,23.6177,114.043419,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3024,49,28,28,4,4,04:00:00,04:00:00,21.817654,112.20793,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3025,44,20,28,20,4,20:00:00,04:00:00,23.624911,116.084536,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3027,11,28,28,4,4,04:00:00,04:00:00,21.912125,110.292455,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3029,28,28,24,4,0,04:00:00,00:00:00,23.031892,115.691944,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+3031,56,20,28,20,4,20:00:00,04:00:00,22.926477,114.078428,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+3032,27,28,24,4,0,04:00:00,00:00:00,22.761322,114.127158,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3034,17,20,20,20,20,20:00:00,20:00:00,22.548277,114.144205,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3035,129,20,28,20,4,20:00:00,04:00:00,22.9081,113.604057,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3036,12,28,30,4,6,04:00:00,06:00:00,22.909763,115.33408,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3037,81,20.5,28.25,20.5,4.25,20:30:00,04:15:00,23.216101,116.624073,3,Urban,5,Other,0.25,0,0.5,0.25,0,0.25,FALSE,Mixed
+3038,30,20,28,20,4,20:00:00,04:00:00,22.504472,114.620918,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3039,26,28,32,4,8,04:00:00,08:00:00,21.704117,110.314917,1,Natural vegetation,5,Other,0,0.25,0.5,0.25,0,0.5,TRUE,Mixed
+3040,157,28,32,4,8,04:00:00,08:00:00,21.833564,112.661708,5,Other,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+3041,177,28,28,4,4,04:00:00,04:00:00,22.928083,114.111006,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+3042,144,20,20,20,20,20:00:00,20:00:00,22.202501,113.529852,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3044,27,24,20,0,20,00:00:00,20:00:00,21.222112,110.48836,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3045,24,28,28,4,4,04:00:00,04:00:00,21.914394,110.800196,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3047,15,20,24,20,0,20:00:00,00:00:00,26.040433,119.30373,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3048,29,28,32,4,8,04:00:00,08:00:00,21.899485,111.599009,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3051,78,12,20,12,20,12:00:00,20:00:00,22.819872,114.198587,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3054,32,28,28,4,4,04:00:00,04:00:00,22.043911,110.84747,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+3057,4,20,16,20,16,20:00:00,16:00:00,22.32444,107.00286,5,Other,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3062,7,20,28,20,4,20:00:00,04:00:00,22.62867,110.154484,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3064,4,18,12,18,12,18:00:00,12:00:00,23.496188,111.315001,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3067,12,28,32,4,8,04:00:00,08:00:00,21.49836,109.487331,2,Cropland,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+3078,1,28,28,4,4,04:00:00,04:00:00,22.80351,108.925424,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3080,145,28,20,4,20,04:00:00,20:00:00,21.661164,109.187354,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3082,10,28,32,4,8,04:00:00,08:00:00,21.478081,109.088091,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3083,7,28,32,4,8,04:00:00,08:00:00,22.658889,107.052149,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+3084,3,20,20,20,20,20:00:00,20:00:00,21.952482,108.629303,3,Urban,3,Urban,0.3333333333333333,0.6666666666666666,0,0,0,0.6666666666666666,TRUE,Urban-dominated
+3087,3,20,20,20,20,20:00:00,20:00:00,23.271717,107.640959,3,Urban,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3090,4,28,32,4,8,04:00:00,08:00:00,23.750608,109.204224,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+3091,310,28,28,4,4,04:00:00,04:00:00,22.821797,108.367836,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3099500,2,31.5,32,7.5,8,07:30:00,08:00:00,41.03672598,-80.5361815,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3106,1,32,32,8,8,08:00:00,08:00:00,42.871439,90.201337,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3114,34,28,28,4,4,04:00:00,04:00:00,32.009033,118.826554,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3115,8,24,14,0,14,00:00:00,14:00:00,33.909789,118.294211,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3117,85,20,20,20,20,20:00:00,20:00:00,33.700643,118.925481,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3118,36,28,28,4,4,04:00:00,04:00:00,31.581693,119.733919,2,Cropland,2,Cropland,0,0,0,0.75,0.25,0.75,TRUE,Ag-dominated
+3119,9,28,32,4,8,04:00:00,08:00:00,33.311428,118.304098,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3120,25,28,32,4,8,04:00:00,08:00:00,31.547984,120.010409,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3121,7,24,20,0,20,00:00:00,20:00:00,32.002485,120.026617,2,Cropland,2,Cropland,0,0,0.25,0.75,0,0.75,TRUE,Ag-dominated
+3122,11,20,18,20,18,20:00:00,18:00:00,31.678267,120.154207,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3123,8,28,28,4,4,04:00:00,04:00:00,33.597258,118.897236,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3123499,2,32.5,25.5,8.5,1.5,08:30:00,01:30:00,38.2150706,-85.7480176,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3124,1,16,16,16,16,16:00:00,16:00:00,31.211617,119.89146,3,Urban,2,Cropland,0.25,0,0.25,0.5,0,0.5,TRUE,Ag-dominated
+3125,40,20,20,20,20,20:00:00,20:00:00,32.328114,119.396018,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3126,59,20,28,20,4,20:00:00,04:00:00,32.598956,120.945333,5,Other,1,Natural vegetation,0.25,0,0.25,0.25,0.25,0.25,FALSE,Mixed
+3128,29,28,28,4,4,04:00:00,04:00:00,32.061707,118.763232,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3129,1,12,16,12,16,12:00:00,16:00:00,34.639856,116.715063,5,Other,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3130,20,20,28,20,4,20:00:00,04:00:00,31.488754,120.304898,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3131,56,28,16,4,16,04:00:00,16:00:00,33.268901,118.983374,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3132,7,20,20,20,20,20:00:00,20:00:00,31.816204,121.022964,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3133,67,20,28,20,4,20:00:00,04:00:00,31.930388,121.822913,2,Cropland,5,Other,0.25,0,0.5,0.25,0,0.25,FALSE,Mixed
+3134,11,18,20,18,20,18:00:00,20:00:00,32.056126,120.412665,3,Urban,5,Other,0,0.25,0.5,0.25,0,0.5,TRUE,Mixed
+3135,23,20,32,20,8,20:00:00,08:00:00,32.05804,121.591802,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3136,19,28,28,4,4,04:00:00,04:00:00,31.635595,119.506363,5,Other,2,Cropland,0,0.25,0.25,0.25,0.25,0.5,TRUE,Mixed
+3137,5,28,32,4,8,04:00:00,08:00:00,32.090435,120.288398,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3138,39,28,28,4,4,04:00:00,04:00:00,31.306263,119.239627,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3140,81,24,32,0,8,00:00:00,08:00:00,32.171928,121.373409,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3143,6,32,16,8,16,08:00:00,16:00:00,31.405592,120.135477,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3144,5,28,32,4,8,04:00:00,08:00:00,31.953122,120.252139,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3145,23,28,28,4,4,04:00:00,04:00:00,32.099615,118.503297,3,Urban,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+3146,16,28,32,4,8,04:00:00,08:00:00,31.758783,120.00259,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3147,36,28,28,4,4,04:00:00,04:00:00,31.908105,120.062543,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3148,1,32,32,8,8,08:00:00,08:00:00,31.452117,120.427174,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3149,95,28,28,4,4,04:00:00,04:00:00,32.570502,119.949664,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3150,2,30,26,6,2,06:00:00,02:00:00,34.217261,117.249737,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3151,1,20,20,20,20,20:00:00,20:00:00,31.22454,119.850415,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3152,4,16,14,16,14,16:00:00,14:00:00,32.492358,119.50462,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3153,33,20,20,20,20,20:00:00,20:00:00,31.768555,120.810987,3,Urban,2,Cropland,0,0,0.25,0.75,0,0.75,TRUE,Ag-dominated
+3154,16,28,32,4,8,04:00:00,08:00:00,32.410881,119.560684,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3155,32,20,32,20,8,20:00:00,08:00:00,32.538861,119.959148,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3156,25,20,20,20,20,20:00:00,20:00:00,31.547747,121.035126,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3157,42,28,32,4,8,04:00:00,08:00:00,33.121895,118.750332,3,Urban,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+3158,65,20,28,20,4,20:00:00,04:00:00,31.515118,121.276419,3,Urban,2,Cropland,0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0,0.6666666666666666,TRUE,Mixed
+3159,10,20,28,20,4,20:00:00,04:00:00,32.485833,119.87053,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3160,16,28,28,4,4,04:00:00,04:00:00,32.245055,119.911408,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3162,26,20,16,20,16,20:00:00,16:00:00,31.925323,118.532748,2,Cropland,2,Cropland,0,0,0,0.5,0.5,0.5,TRUE,Ag-dominated
+3163,108,20,20,20,20,20:00:00,20:00:00,33.301657,119.182933,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3164,13,28,28,4,4,04:00:00,04:00:00,31.191479,120.661595,3,Urban,3,Urban,0,0.5,0.25,0.25,0,0.75,TRUE,Urban-dominated
+3165,4,24,24,0,0,00:00:00,00:00:00,31.46746,118.882541,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3166,10,28,28,4,4,04:00:00,04:00:00,32.375163,120.845123,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3167,21,20,28,20,4,20:00:00,04:00:00,32.07894,120.646561,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3168,41,20,28,20,4,20:00:00,04:00:00,32.421756,119.893747,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+3169,3,16,16,16,16,16:00:00,16:00:00,32.427353,119.265049,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3170,82,28,28,4,4,04:00:00,04:00:00,31.260263,120.87278,3,Urban,3,Urban,0,0.5,0.25,0.25,0,0.75,TRUE,Urban-dominated
+3171,5,24,24,0,0,00:00:00,00:00:00,32.032782,118.752935,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3172,3,24,28,0,4,00:00:00,04:00:00,30.831855,120.558677,2,Cropland,3,Urban,0.25,0.5,0,0.25,0,0.75,TRUE,Urban-dominated
+3173,4,16,14,16,14,16:00:00,14:00:00,34.5227503,117.9285451,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3174,14,24,32,0,8,00:00:00,08:00:00,32.302834,121.193199,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3175,34,20,28,20,4,20:00:00,04:00:00,32.945673,120.315457,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3176,3,28,20,4,20,04:00:00,20:00:00,31.346315,119.223289,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3177,4,32,32,8,8,08:00:00,08:00:00,33.104157,118.736352,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3178,3,32,20,8,20,08:00:00,20:00:00,31.554449,120.284393,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3179,26,28,24,4,0,04:00:00,00:00:00,31.433021,120.875192,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3180,74,28,20,4,20,04:00:00,20:00:00,31.388542,120.973408,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3181,9,16,20,16,20,16:00:00,20:00:00,32.123444,119.57278,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3182,16,20,16,20,16,20:00:00,16:00:00,31.910246,120.32641,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3183,4,30,20,6,20,06:00:00,20:00:00,31.577007,120.556522,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3186,2,20,20,20,20,20:00:00,20:00:00,31.907854,120.204109,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3187,9,28.25,28.5,4.25,4.5,04:15:00,04:30:00,31.460995,120.869564,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3188,64,24,20,0,20,00:00:00,20:00:00,32.065877,118.394022,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3189,4,28,30,4,6,04:00:00,06:00:00,32.061707,118.763232,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3192,38,28,20,4,20,04:00:00,20:00:00,31.830233,119.607156,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3195,1,16,16,16,16,16:00:00,16:00:00,28.251621,115.874299,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3199,14,24,16,0,16,00:00:00,16:00:00,29.287166,115.795165,2,Cropland,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+3200,64,28,32,4,8,04:00:00,08:00:00,28.904167,116.263514,5,Other,4,Wetland,0,0,0.5,0,0.5,0,FALSE,Mixed
+3202,11,16,16,16,16,16:00:00,16:00:00,29.007762,115.826974,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3204,1,12,12,12,12,12:00:00,12:00:00,28.694779,116.71726,1,Natural vegetation,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3207,2,20,20,20,20,20:00:00,20:00:00,29.406277,116.62703,2,Cropland,2,Cropland,0.25,0,0.25,0.5,0,0.5,TRUE,Ag-dominated
+3208,2,24,24,0,0,00:00:00,00:00:00,27.809566,114.968562,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3210,1,20,20,20,20,20:00:00,20:00:00,28.540289,116.780174,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3212,2,28.5,28.5,4.5,4.5,04:30:00,04:30:00,27.286929,115.507866,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3214,1,12,12,12,12,12:00:00,12:00:00,29.348431,117.805492,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3215,6,28,32,4,8,04:00:00,08:00:00,26.807029,115.212355,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3216,1,16,16,16,16,16:00:00,16:00:00,28.330102,117.517337,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3219500,45,29,32,5,8,05:00:00,08:00:00,40.4195042,-83.1971372,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3225,1,32,32,8,8,08:00:00,08:00:00,26.235491,114.492474,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3226,1,28,28,4,4,04:00:00,04:00:00,28.549469,115.935611,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3229,15,16,20,16,20,16:00:00,20:00:00,28.712683,116.433667,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3231,10,16,16,16,16,16:00:00,16:00:00,26.887366,114.504463,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3234,2,28,28,4,4,04:00:00,04:00:00,28.675696,115.909228,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3236,2,14,14,14,14,14:00:00,14:00:00,26.584506,114.51329,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3237,150,28,16,4,16,04:00:00,16:00:00,29.819033,116.185114,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3238,3,28,28,4,4,04:00:00,04:00:00,29.573067000000002,116.767532,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3241,1,20,32,20,8,20:00:00,08:00:00,27.678079,113.666161,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3246,6,20,22.25,20,22.25,20:00:00,22:15:00,26.294256,115.733224,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3247,2,28,28,4,4,04:00:00,04:00:00,40.616037,117.774843,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3248,66,28,32,4,8,04:00:00,08:00:00,39.58526,116.535515,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3250,1,12,12,12,12,12:00:00,12:00:00,41.014807,117.961347,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3252,124,28,32,4,8,04:00:00,08:00:00,38.879094,115.653094,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3254,82,28,20,4,20,04:00:00,20:00:00,38.897404,116.028691,4,Wetland,4,Wetland,0,0,0.5,0,0.5,0,FALSE,Mixed
+3254520,63,25,23,1,23,01:00:00,23:00:00,38.9203417,-84.44799549,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3255,8,28,28,4,4,04:00:00,04:00:00,40.772528,118.599514,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3256,2,28,28,4,4,04:00:00,04:00:00,39.223947,115.765844,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3257,71,28,20,4,20,04:00:00,20:00:00,37.513177,116.04779,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3259,43,28,30,4,6,04:00:00,06:00:00,37.319989,115.091033,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3260,6,20,22,20,22,20:00:00,22:00:00,38.037057,114.468664,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3261,21,28,28,4,4,04:00:00,04:00:00,37.905393,116.131193,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3262,7,20,26,20,2,20:00:00,02:00:00,41.673671,117.821479,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3263,10,28,32,4,8,04:00:00,08:00:00,38.477117,117.542157,2,Cropland,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+3264,7,28,28,4,4,04:00:00,04:00:00,37.865007,115.813964,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3268,45,28,32,4,8,04:00:00,08:00:00,39.44595,116.73027,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3269,5,26,20,2,20,02:00:00,20:00:00,39.44595,116.73027,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3270,93,28,20,4,20,04:00:00,20:00:00,40.963671,118.664147,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+3272,36,28,32,4,8,04:00:00,08:00:00,38.866844,115.818382,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3273,13,28,28,4,4,04:00:00,04:00:00,38.041596,115.982251,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3274,1,16,16,16,16,16:00:00,16:00:00,36.29222,114.171204,5,Other,2,Cropland,0,0,0.25,0.75,0,0.75,TRUE,Ag-dominated
+3276,1,16,16,16,16,16:00:00,16:00:00,38.269558,114.17444,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3277,11,28,32,4,8,04:00:00,08:00:00,39.802411,119.450936,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3278,15,28,32,4,8,04:00:00,08:00:00,36.766382,114.95768,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3280,60,28,32,4,8,04:00:00,08:00:00,38.379485,115.117539,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3281,1,20,NA,20,NA,20:00:00,NA,39.615082,118.20546,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3282,10,28,28,4,4,04:00:00,04:00:00,39.906055,119.576813,5,Other,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3283,11,28,28,4,4,04:00:00,04:00:00,39.776323,119.421414,5,Other,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+3284,58,28,20,4,20,04:00:00,20:00:00,39.227626,118.04918,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3284533,37,23,33,23,9,23:00:00,09:00:00,37.9383333,-84.4786111,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3285,1,20,20,20,20,20:00:00,20:00:00,40.349608,115.373872,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3286,6,28,32,4,8,04:00:00,08:00:00,39.750631,118.773574,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3287,28,28,32,4,8,04:00:00,08:00:00,38.962979,115.991458,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3287590,134,25,25,1,1,01:00:00,01:00:00,38.04006944,-84.4111111,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3288,38,28,16,4,16,04:00:00,16:00:00,39.743079,116.931147,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3289193,7,27,17,3,17,03:00:00,17:00:00,38.06674334,-84.5543852,3,Urban,3,Urban,0.25,0.5,0,0.25,0,0.75,TRUE,Urban-dominated
+3289200,7,28,31,4,7,04:00:00,07:00:00,38.103687,-84.5879977,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3290500,4,29,21.5,5,21.5,05:00:00,21:30:00,38.43895654,-84.9632844,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3291,75,20,28,20,4,20:00:00,04:00:00,40.762463,114.879227,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3292,43,28,24,4,0,04:00:00,00:00:00,38.87054,115.76742,2,Cropland,2,Cropland,0,0.3333333333333333,0,0.6666666666666666,0,1,TRUE,Ag-dominated
+3292470,4,29,20.5,5,20.5,05:00:00,20:30:00,38.36117864,-85.57459969,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3292474,76,27,28,3,4,03:00:00,04:00:00,38.2759036,-85.606072,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3292475,13,30,32,6,8,06:00:00,08:00:00,38.3034027,-85.62801689,1,Natural vegetation,3,Urban,0.25,0.5,0.25,0,0,0.5,TRUE,Urban-dominated
+3292480,5,31,32,7,8,07:00:00,08:00:00,38.3127635,-85.6261558,1,Natural vegetation,3,Urban,0.25,0.5,0.25,0,0,0.5,TRUE,Urban-dominated
+3292500,262,26,28,2,4,02:00:00,04:00:00,38.2114592,-85.7024613,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3293,32,28,32,4,8,04:00:00,08:00:00,37.518685,115.075585,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3293000,34,28,32,4,8,04:00:00,08:00:00,38.237293,-85.6646834,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3293500,602,28,33,4,9,04:00:00,09:00:00,38.25034895,-85.7166287,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3293510,521,23,21,23,21,23:00:00,21:00:00,38.26590398,-85.7207955,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+3293530,24,23,27.5,23,3.5,23:00:00,03:30:00,38.27645917,-85.693573,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3293532,83,29,31,5,7,05:00:00,07:00:00,38.2603486,-85.7182954,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+3294,17,32,32,8,8,08:00:00,08:00:00,38.823736,116.024029,4,Wetland,2,Cropland,0,0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,TRUE,Mixed
+3294570,94,22,23,22,23,22:00:00,23:00:00,38.07812588,-85.8899635,1,Natural vegetation,3,Urban,0.25,0.5,0.25,0,0,0.5,TRUE,Urban-dominated
+3295,45,28,32,4,8,04:00:00,08:00:00,39.678461,119.223129,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3296,10,28,20,4,20,04:00:00,20:00:00,33.877112,113.779832,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3297,8,28,32,4,8,04:00:00,08:00:00,33.93393,113.949926,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3297800,50,29,32,5,8,05:00:00,08:00:00,37.9911111,-85.6411111,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3297900,104,25,25,1,1,01:00:00,01:00:00,38.28534776,-85.4674592,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3298,96,20,16,20,16,20:00:00,16:00:00,32.089061,114.105024,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3298000,1,31,23,7,23,07:00:00,23:00:00,38.18840166,-85.460235,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3298135,58,27.5,32,3.5,8,03:30:00,08:00:00,38.19479109,-85.557181,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3298150,7,22,23,22,23,22:00:00,23:00:00,38.16006729,-85.5421797,1,Natural vegetation,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+3298200,29,22,26,22,2,22:00:00,02:00:00,38.08534216,-85.5549556,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3298250,45,22,25,22,1,22:00:00,01:00:00,38.0792321,-85.6160683,1,Natural vegetation,1,Natural vegetation,0.6666666666666666,0.3333333333333333,0,0,0,0.3333333333333333,TRUE,Natural-dominated
+3298300,316,26,22,2,22,02:00:00,22:00:00,38.08756629,-85.642458,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3299,1,28,28,4,4,04:00:00,04:00:00,35.222893,113.457855,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3300,10,28,28,4,4,04:00:00,04:00:00,34.765515,113.753602,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3301940,280,29,32,5,8,05:00:00,08:00:00,38.1503466,-85.6935714,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+3302,4,32,16,8,16,08:00:00,16:00:00,36.108471,115.06861,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3302000,59,26,16,2,16,02:00:00,16:00:00,38.1197916,-85.7957955,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3302030,98,30,29,6,5,06:00:00,05:00:00,38.05423677,-85.8716296,1,Natural vegetation,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+3302050,367,26,25,2,1,02:00:00,01:00:00,38.04693096,-85.8572681,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3302058,3,20,13,20,13,20:00:00,13:00:00,37.9922222,-85.9220556,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+3303,142,28,32,4,8,04:00:00,08:00:00,32.673099,112.812864,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3304,3,14,16,14,16,14:00:00,16:00:00,34.571616,111.478756,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3306,20,28,32,4,8,04:00:00,08:00:00,33.503413,114.574433,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3307,13,28,30,4,6,04:00:00,06:00:00,32.081175,115.421399,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3310,10,28,30,4,6,04:00:00,06:00:00,35.134576,114.605094,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3311,20,28,24,4,0,04:00:00,00:00:00,34.765515,113.753602,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3313,1,32,12,8,12,08:00:00,12:00:00,36.07964,114.135423,1,Natural vegetation,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+3314,20,28,30,4,6,04:00:00,06:00:00,32.251659,113.979279,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3315,83,28,32,4,8,04:00:00,08:00:00,32.780629,114.868435,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3316,4,32,26,8,2,08:00:00,02:00:00,32.7135129,115.0622929,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3317,3,32,32,8,8,08:00:00,08:00:00,34.323191,113.778832,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3319,10,28,28,4,4,04:00:00,04:00:00,34.060856,112.972621,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3320,78,20,28,20,4,20:00:00,04:00:00,32.977274,113.588091,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3321,11,28,30,4,6,04:00:00,06:00:00,32.895127,114.406066,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3321500,43,21,21.5,21,21.5,21:00:00,21:30:00,37.8583774,-87.4097294,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3322,74,20,28,20,4,20:00:00,04:00:00,32.128443,115.051424,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3323,35,28,32,4,8,04:00:00,08:00:00,35.590216,114.907187,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3326,2,30,30,6,6,06:00:00,06:00:00,33.722364,113.250862,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+3327,12,28,20,4,20,04:00:00,20:00:00,34.765515,113.753602,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3328,3,32,32,8,8,08:00:00,08:00:00,33.27192,113.548952,5,Other,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+3330,2,16,16,16,16,16:00:00,16:00:00,32.167866,114.660307,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3332,49,28,32,4,8,04:00:00,08:00:00,33.203367,115.151458,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3334,52,28,28,4,4,04:00:00,04:00:00,34.765515,113.753602,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3335,4,20,12,20,12,20:00:00,12:00:00,32.635434,113.938979,5,Other,2,Cropland,0.25,0,0.25,0.5,0,0.5,TRUE,Ag-dominated
+3336,6,32,32,8,8,08:00:00,08:00:00,33.894563,114.636783,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3337,21,28,28,4,4,04:00:00,04:00:00,33.404611,113.899043,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3338,151,26.25,20,2.25,20,02:15:00,20:00:00,34.878877,112.497597,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3339,4,22,24,22,0,22:00:00,00:00:00,34.357765,114.467138,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3340,23,28,32,4,8,04:00:00,08:00:00,33.823184,114.243256,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3341,22,28,32,4,8,04:00:00,08:00:00,32.272325,114.035868,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3342,1,16,16,16,16,16:00:00,16:00:00,33.308204,113.525593,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3345,23,20,16,20,16,20:00:00,16:00:00,28.467694,119.416539,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3347,68,28,32,4,8,04:00:00,08:00:00,29.302339,120.08912,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3348,60,28,28,4,4,04:00:00,04:00:00,30.147737,120.407333,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3350,82,20,28,20,4,20:00:00,04:00:00,30.267446,120.152791,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3353415,134,25,29,1,5,01:00:00,05:00:00,39.88577778,-86.3554444,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3353420,276,27,32,3,8,03:00:00,08:00:00,39.8725833,-86.3615278,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3355,30,28,28,4,4,04:00:00,04:00:00,29.266018,120.051391,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3358,44,20,18,20,18,20:00:00,18:00:00,30.442504,120.070573,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3363,11,20,16,20,16,20:00:00,16:00:00,30.225321,120.726949,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3368,2,16,16,16,16,16:00:00,16:00:00,31.123297,119.902583,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3369,2,20,20,20,20,20:00:00,20:00:00,28.670578,121.323929,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3370,22,28,32,4,8,04:00:00,08:00:00,30.25332,119.866868,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+3371,9,28,28,4,4,04:00:00,04:00:00,28.276705,121.68638,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3375,3,28,28,4,4,04:00:00,04:00:00,29.071266,119.671617,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3376,14,28,28,4,4,04:00:00,04:00:00,29.772181,120.238368,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3377,79,20,28,20,4,20:00:00,04:00:00,29.90894,121.532765,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3378,4,16,16,16,16,16:00:00,16:00:00,28.363673,120.690527,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3378500,2,29.5,33,5.5,9,05:30:00,09:00:00,38.130879,-87.941419,2,Cropland,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3379,29,20,32,20,8,20:00:00,08:00:00,28.401983,121.313909,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3381,96,24,20,0,20,00:00:00,20:00:00,30.788164,121.287508,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3383,111,28,32,4,8,04:00:00,08:00:00,29.44436,119.931804,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+3384,1,32,32,8,8,08:00:00,08:00:00,28.691077,121.480529,5,Other,1,Natural vegetation,0.25,0.25,0.25,0.25,0,0.5,TRUE,Mixed
+3385,1,12,12,12,12,12:00:00,12:00:00,28.722889,119.366656,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3386,86,28,28,4,4,04:00:00,04:00:00,28.440311,119.522168,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3387,3,28,30,4,6,04:00:00,06:00:00,29.200956,119.492445,2,Cropland,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+3389,46,20,20,20,20,20:00:00,20:00:00,28.498534,121.612773,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3392,20,20,26,20,2,20:00:00,02:00:00,30.012424,122.099384,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3393,3,24,28,0,4,00:00:00,04:00:00,28.401295,119.958275,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3395,32,30,32,6,8,06:00:00,08:00:00,18.309346,109.296015,2,Cropland,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3397,108,28,32,4,8,04:00:00,08:00:00,18.435633,108.88035,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3399,1,28,28,4,4,04:00:00,04:00:00,20.03468,110.341344,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3400800,17,26,24,2,0,02:00:00,00:00:00,36.75230974,-83.2574012,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3401,1,12,12,12,12,12:00:00,12:00:00,19.23792,108.90976,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3402,8,28,32,4,8,04:00:00,08:00:00,18.868383,110.446856,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3403,232,28,32,4,8,04:00:00,08:00:00,18.771022,110.361185,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3405,1,20,16,20,16,20:00:00,16:00:00,18.899736,110.478603,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3406,36,28,28,4,4,04:00:00,04:00:00,19.641482,110.90946,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3407,89,28,32,4,8,04:00:00,08:00:00,18.517517,110.0638,1,Natural vegetation,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+3409,13,20,28,20,4,20:00:00,04:00:00,18.365332,109.16614,3,Urban,3,Urban,0,0.6666666666666666,0,0.3333333333333333,0,1,TRUE,Urban-dominated
+3411,257,20,28,20,4,20:00:00,04:00:00,19.619,110.753577,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3413,73,28,32,4,8,04:00:00,08:00:00,20.001319,110.372868,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3414,2,16,16,16,16,16:00:00,16:00:00,18.272081,109.575045,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3414000,10,19,22,19,22,19:00:00,22:00:00,36.88395484,-85.1394008,1,Natural vegetation,1,Natural vegetation,0.75,0,0.25,0,0,0,FALSE,Natural-dominated
+3414002,2,18,19.5,18,19.5,18:00:00,19:30:00,36.88405556,-85.12963889,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3415,47,28,32,4,8,04:00:00,08:00:00,18.299466,109.537206,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+3416,29,28,32,4,8,04:00:00,08:00:00,19.107418,110.517393,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3417,10,20,28,20,4,20:00:00,04:00:00,18.584272,109.899226,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3417500,1,31,17,7,17,07:00:00,17:00:00,36.5542507,-85.5143938,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3418420,15,27,28,3,4,03:00:00,04:00:00,36.2867558,-85.94079609,1,Natural vegetation,5,Other,0.25,0.25,0.5,0,0,0.25,FALSE,Mixed
+3420,10,20,28,20,4,20:00:00,04:00:00,19.146787,110.324964,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3429,11,28,32,4,8,04:00:00,08:00:00,30.932298,114.664435,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3430,2,26,12,2,12,02:00:00,12:00:00,32.479431,111.08413,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3430200,144,26,28,2,4,02:00:00,04:00:00,36.1864446,-86.6327739,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3431083,13,29.5,32,5.5,8,05:30:00,08:00:00,36.16394545,-86.699164,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3431514,7,21,22,21,22,21:00:00,22:00:00,36.1889717,-86.8283959,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3432,1,16,20,16,20,16:00:00,20:00:00,31.850714,113.318907,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+343233905,1,28,34,4,10,04:00:00,10:00:00,35.89984185,-86.8428894,1,Natural vegetation,3,Urban,0.25,0.5,0,0.25,0,0.75,TRUE,Urban-dominated
+3434,8,28,32,4,8,04:00:00,08:00:00,29.980468,113.915926,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3436,21,32,32,8,8,08:00:00,08:00:00,30.607998,114.739996,5,Other,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3438,14,24,30,0,6,00:00:00,06:00:00,29.77652,109.816955,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3439,45,16,20,16,20,16:00:00,20:00:00,30.926829,113.885347,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3442,4,32,20,8,20,08:00:00,20:00:00,31.82216,112.710238,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3443,4,20,22,20,22,20:00:00,22:00:00,30.925216,113.588349,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3444,128,28,20,4,20,04:00:00,20:00:00,30.725578,112.839824,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3445,6,28,28,4,4,04:00:00,04:00:00,29.6665,113.329487,5,Other,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+3446,4,26,26,2,2,02:00:00,02:00:00,30.691979,113.943238,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3447,41,24,20,0,20,00:00:00,20:00:00,31.57971,113.115433,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3448,3,20,12,20,12,20:00:00,12:00:00,30.167878,113.345876,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3452,11,18,12,18,12,18:00:00,12:00:00,30.254048,114.571771,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3455,6,20,14,20,14,20:00:00,14:00:00,30.205647,113.846046,5,Other,5,Other,0,0,0.5,0.25,0.25,0.25,FALSE,Mixed
+3457,7,32,32,8,8,08:00:00,08:00:00,30.479428,114.441717,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3458,4,20,24,20,0,20:00:00,00:00:00,31.062773,113.791446,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3460,4,16,24,16,0,16:00:00,00:00:00,30.287569,108.9049,3,Urban,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+3462,6,32,32,8,8,08:00:00,08:00:00,31.706189,113.357381,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3464,37,28,30,4,6,04:00:00,06:00:00,30.71412,114.353979,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3469,1,16,16,16,16,16:00:00,16:00:00,30.328291,114.606334,3,Urban,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+3470,7,28,32,4,8,04:00:00,08:00:00,31.265037,114.468486,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3474,114,32,16,8,16,08:00:00,16:00:00,29.936945,114.206491,4,Wetland,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+3477,1,12,12,12,12,12:00:00,12:00:00,30.169848000000002,114.668405,2,Cropland,2,Cropland,0.25,0,0.25,0.5,0,0.5,TRUE,Ag-dominated
+3479,1,32,16,8,16,08:00:00,16:00:00,29.689218,112.635912,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3480,144,28,20,4,20,04:00:00,20:00:00,30.299189,112.519313,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3481,16,30,18,6,18,06:00:00,18:00:00,30.958605,114.772146,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3482,88,28,32,4,8,04:00:00,08:00:00,30.300442,114.134789,5,Other,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+3484,11,24,28,0,4,00:00:00,04:00:00,29.90909,113.688546,3,Urban,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+3491,21,28,32,4,8,04:00:00,08:00:00,30.020142,115.315117,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3492,30,30,30,6,6,06:00:00,06:00:00,31.121516,115.346493,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+3493,5,20,20,20,20,20:00:00,20:00:00,32.653896,111.205815,5,Other,1,Natural vegetation,0.6666666666666666,0,0.3333333333333333,0,0,0,FALSE,Natural-dominated
+3496,30,28,28,4,4,04:00:00,04:00:00,29.310533,112.849485,4,Wetland,4,Wetland,0,0,0.3333333333333333,0,0.6666666666666666,0,FALSE,Mixed
+3497,2,24,26,0,2,00:00:00,02:00:00,29.254035,113.028626,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3500,7,30,20,6,20,06:00:00,20:00:00,29.248398,113.492368,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3501,56,28,32,4,8,04:00:00,08:00:00,29.457415,112.76546,2,Cropland,2,Cropland,0,0,0.25,0.75,0,0.75,TRUE,Ag-dominated
+3506,14,24,16,0,16,00:00:00,16:00:00,26.82305,113.156194,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+3508,3,20,20,20,20,20:00:00,20:00:00,29.4497926,113.14871,3,Urban,5,Other,0,0.25,0.75,0,0,0.25,FALSE,Mixed
+3511,23,28,32,4,8,04:00:00,08:00:00,29.206544,112.515163,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3513,58,28,32,4,8,04:00:00,08:00:00,29.590311,112.238314,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3520,18,20,28,20,4,20:00:00,04:00:00,28.259883,113.008048,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3523,15,28,28,4,4,04:00:00,04:00:00,28.52605,112.150471,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3524,1,16,16,16,16,16:00:00,16:00:00,27.712051,109.609609,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3525,1,12,12,12,12,12:00:00,12:00:00,28.56049,112.812316,3,Urban,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+3526,13,20,28,20,4,20:00:00,04:00:00,27.215471,112.885768,1,Natural vegetation,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+3528,4,28,16,4,16,04:00:00,16:00:00,28.112444,112.98381,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3529,1,32,32,8,8,08:00:00,08:00:00,27.674002,111.421332,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3533,4,16,18,16,18,16:00:00,18:00:00,33.827571,119.307466,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3534,1,12,12,12,12,12:00:00,12:00:00,25.986252,109.782371,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3540,3,28,32,4,8,04:00:00,08:00:00,29.0557678,112.3110917,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3545,25,28,28,4,4,04:00:00,04:00:00,28.293453,112.958736,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+3548,5,32,16,8,16,08:00:00,16:00:00,30.839666,111.06395,5,Other,1,Natural vegetation,0.75,0,0.25,0,0,0,FALSE,Natural-dominated
+3551,2,26,22,2,22,02:00:00,22:00:00,27.136894,110.032419,1,Natural vegetation,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+3553,39,28,28,4,4,04:00:00,04:00:00,25.072475,111.846913,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+35541,1,21,33,21,9,21:00:00,09:00:00,35.90279958,-106.6214241,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3556,7,16,16,16,16,16:00:00,16:00:00,26.756175,112.751951,2,Cropland,2,Cropland,0,0.3333333333333333,0,0.6666666666666666,0,1,TRUE,Ag-dominated
+3572,2,22,22,22,22,22:00:00,22:00:00,34.144303,104.847086,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3574,4,28,28,4,4,04:00:00,04:00:00,35.618085,103.237716,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3583,12,20,28,20,4,20:00:00,04:00:00,38.370496,102.0513,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3584,4,22,22,22,22,22:00:00,22:00:00,35.33874,107.744589,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3589,67,20,28,20,4,20:00:00,04:00:00,25.346121,117.555685,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3591,30,24.5,20,0.5,20,00:30:00,20:00:00,23.94656,117.3503,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3593,5,20,28,20,4,20:00:00,04:00:00,25.107288,117.555005,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3595,13,32,28.25,8,4.25,08:00:00,04:15:00,24.951791,118.44607,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3596,10,28,28,4,4,04:00:00,04:00:00,24.46201,117.405013,2,Cropland,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+3597,24,24,30,0,6,00:00:00,06:00:00,24.567778,117.518239,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3600,10,16,16,16,16,16:00:00,16:00:00,25.050703,118.266127,3,Urban,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3601,34,20,32,20,8,20:00:00,08:00:00,26.671964,117.19124,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3603,39,20,20,20,20,20:00:00,20:00:00,25.92585,118.393076,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3608,1,32,32,8,8,08:00:00,08:00:00,27.647798,118.688747,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3610,12,28,16,4,16,04:00:00,16:00:00,26.548915,117.996231,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3611,38,16,20,16,20,16:00:00,20:00:00,26.088396,117.10368,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3612,10,32,32,8,8,08:00:00,08:00:00,26.086997,117.444817,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3612600,1,33,33,9,9,09:00:00,09:00:00,37.17921867,-89.058404,5,Other,2,Cropland,0,0,0.25,0.5,0.25,0.5,TRUE,Ag-dominated
+3613,9,32,32,8,8,08:00:00,08:00:00,25.284037,118.383698,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3615,1,20,20,20,20,20:00:00,20:00:00,26.057304,119.209604,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3619,5,28,28,4,4,04:00:00,04:00:00,26.100779,119.295144,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3622,3,32,32.5,8,8.5,08:00:00,08:30:00,26.100779,119.295144,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3624,54,24,32,0,8,00:00:00,08:00:00,26.326652,118.755979,5,Other,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3625,3,20,16,20,16,20:00:00,16:00:00,25.24576,117.150525,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3632,1,12,20,12,20,12:00:00,20:00:00,26.315435,104.751606,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+3638,2,26,26,2,2,02:00:00,02:00:00,27.576213,107.191157,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3645,79,20,20,20,20,20:00:00,20:00:00,26.594198,104.81999,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3648,4,28,12,4,12,04:00:00,12:00:00,26.050708,107.859702,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3654,1,16,16,16,16,16:00:00,16:00:00,24.871249,104.586066,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3656,62,28,32,4,8,04:00:00,08:00:00,41.238406,122.231353,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3658,9,16,18,16,18,16:00:00,18:00:00,40.95209,120.862859,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3662,23,28,28,4,4,04:00:00,04:00:00,41.5986,121.935696,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3663,32,28,30,4,6,04:00:00,06:00:00,40.375511,124.742974,5,Other,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+3664,3,28,28,4,4,04:00:00,04:00:00,42.754086,124.083179,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3666,40,28,28,4,4,04:00:00,04:00:00,41.797545,123.196401,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3669,3,28,28,4,4,04:00:00,04:00:00,40.234403,123.328585,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+3670,3,20,28,20,4,20:00:00,04:00:00,39.471652,122.582711,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3671,9,20,20,20,20,20:00:00,20:00:00,40.549855,122.652461,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3672,2,28,32,4,8,04:00:00,08:00:00,40.375511,124.742974,5,Other,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+3673,23,28,32,4,8,04:00:00,08:00:00,40.210189,120.433988,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3674,20,20,28,20,4,20:00:00,04:00:00,40.269321,120.469041,1,Natural vegetation,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+3675,10,28,32,4,8,04:00:00,08:00:00,42.01371,122.951184,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3676,3,20,16,20,16,20:00:00,16:00:00,41.125026,121.908957,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3678,7,20,20,20,20,20:00:00,20:00:00,39.841474,122.117254,1,Natural vegetation,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3679,6,28,28,4,4,04:00:00,04:00:00,42.243274,124.036625,5,Other,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+3681,46,20,28,20,4,20:00:00,04:00:00,40.923266,122.803966,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3682,1,16,16,16,16,16:00:00,16:00:00,40.754672,120.59247,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3683,4,28,28,4,4,04:00:00,04:00:00,41.72692,125.03679,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3685,1,32,32,8,8,08:00:00,08:00:00,39.781799,123.129198,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3687,26,20,20,20,20,20:00:00,20:00:00,42.621437,123.675436,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3688,1,20,20,20,20,20:00:00,20:00:00,41.948698,124.130817,2,Cropland,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+3691,14,28,26,4,2,04:00:00,02:00:00,31.17634,108.13505,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+3693,45,28,20,4,20,04:00:00,20:00:00,29.967405,106.233565,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+3700,2,26,12,2,12,02:00:00,12:00:00,29.035039,105.761294,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3704,10,28,32,4,8,04:00:00,08:00:00,30.944318,108.674842,5,Other,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3705,2,32,32,8,8,08:00:00,08:00:00,28.653371,108.637456,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3706,6,12,18,12,18,12:00:00,18:00:00,29.708068,106.821893,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3709,11,28,24,4,0,04:00:00,00:00:00,29.207546,107.506786,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3711,56,28,32,4,8,04:00:00,08:00:00,29.972779,107.797662,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3720,68,24,32,0,8,00:00:00,08:00:00,29.54633,105.687881,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3728,17,12,20,12,20,12:00:00,20:00:00,29.818174,107.12328,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3731,3,28,20,4,20,04:00:00,20:00:00,30.737812,108.609295,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3733,21,28,32,4,8,04:00:00,08:00:00,29.808129,106.977916,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3736,13,28,12,4,12,04:00:00,12:00:00,30.412865,108.159455,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3739,3,32,26,8,2,08:00:00,02:00:00,34.342738,109.597958,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+3740,7,32,16,8,16,08:00:00,16:00:00,34.331984,109.10789,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3741,8,16,20,16,20,16:00:00,20:00:00,33.999268,109.439328,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3747,1,20,20,20,20,20:00:00,20:00:00,34.341042,109.029633,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3753,6,30.25,24.25,6.25,0.25,06:15:00,00:15:00,34.881673,106.710551,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+37531,15,31,31,7,7,07:00:00,07:00:00,37.89713889,-97.4411111,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3754,1,20,20,20,20,20:00:00,20:00:00,37.993818,109.854869,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3760,2,32,32,8,8,08:00:00,08:00:00,36.980189,99.825521,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3761,2,14,20,14,20,14:00:00,20:00:00,32.90242,100.796611,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3765,2,24,26,0,2,00:00:00,02:00:00,44.266976,128.639537,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3766,2,22,22,22,22,22:00:00,22:00:00,44.780159,129.522687,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3774,1,16,16,16,16,16:00:00,16:00:00,47.314285,126.848283,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3778,2,12,24,12,0,12:00:00,00:00:00,45.726806,126.523186,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+3785,3,12,20,12,20,12:00:00,20:00:00,50.249585,127.499023,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+3795,3,20,28,20,4,20:00:00,04:00:00,23.981819,97.879546,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3804,43,32,32,8,8,08:00:00,08:00:00,24.678912,102.688312,1,Natural vegetation,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+38051,200,22,23,22,23,22:00:00,23:00:00,38.09661389,-121.6512444,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+38071,227,23,22,23,22,23:00:00,22:00:00,38.1198,-121.5428972,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3812,3,16,18,16,18,16:00:00,18:00:00,42.441301,120.807707,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3816,4,28,28,4,4,04:00:00,04:00:00,43.174106,117.758673,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+38171,2,32.5,25.5,8.5,1.5,08:30:00,01:30:00,38.2846833,-85.821925,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+3820,4,20,24,20,0,20:00:00,00:00:00,50.308321,119.371214,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3830,12,16,20,16,20,16:00:00,20:00:00,44.628169,127.180088,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3831,1,28,28,4,4,04:00:00,04:00:00,44.623803,122.961691,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+3834,13,20,20,20,20,20:00:00,20:00:00,43.387278,125.029958,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3845,1,20.5,16.5,20.5,16.5,20:30:00,16:30:00,31.80927,101.44973,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3849,1,16,16,16,16,16:00:00,16:00:00,31.40885,107.240246,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3862,49,28,28,4,4,04:00:00,04:00:00,38.838361,117.333968,2,Cropland,2,Cropland,0.25,0,0.25,0.5,0,0.5,TRUE,Ag-dominated
+3868,9,28,28,4,4,04:00:00,04:00:00,39.439892,117.075969,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3869,33,20,20,20,20,20:00:00,20:00:00,38.770583,117.5701,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3880,45,28,32,4,8,04:00:00,08:00:00,36.685903,121.175962,5,Other,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3881,41,28,32,4,8,04:00:00,08:00:00,35.406527,115.768534,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3882,11,28,28,4,4,04:00:00,04:00:00,36.866154,116.459246,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3883,2,16,16,16,16,16:00:00,16:00:00,34.5519243,117.7168927,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3885,5,28.5,28.5,4.5,4.5,04:30:00,04:30:00,36.272938,117.379726,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3886,12,28,32,4,8,04:00:00,08:00:00,34.868596,116.175491,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3887,33,28,32,4,8,04:00:00,08:00:00,37.535881,121.289911,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3888,51,28,32,4,8,04:00:00,08:00:00,34.926483,118.382936,2,Cropland,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3889,1,28,32,4,8,04:00:00,08:00:00,36.997097,116.580564,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3890,22,20,32,20,8,20:00:00,08:00:00,35.109899,116.210637,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3893,12,28,32,4,8,04:00:00,08:00:00,37.569847,116.335396,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3894,143,28,28,4,4,04:00:00,04:00:00,35.144836,118.274968,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+3896,3,28,28,4,4,04:00:00,04:00:00,37.266821,117.073018,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3898,1,12,16,12,16,12:00:00,16:00:00,35.13497,111.825047,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+39021,24,30,32.5,6,8.5,06:00:00,08:30:00,39.0338222,-94.60745,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3906,2,18,24,18,0,18:00:00,00:00:00,37.641851,110.797948,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3910,11,26,30,2,6,02:00:00,06:00:00,22.462587,112.742789,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3914,14,20,18,20,18,20:00:00,18:00:00,22.552676,112.007501,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3917,2,16,16,16,16,16:00:00,16:00:00,22.184873,113.416799,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3918,2,28,30,4,6,04:00:00,06:00:00,23.115118,116.355037,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+39191,16,21,23,21,23,21:00:00,23:00:00,39.33119444,-108.2178056,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+3925,1,20,20,20,20,20:00:00,20:00:00,40.506678,81.301296,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3926,10,20,28,20,4,20:00:00,04:00:00,37.445847,78.5372,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+3944,29,28,28,4,4,04:00:00,04:00:00,33.014668,118.920997,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3946,23,20,20,20,20,20:00:00,20:00:00,32.687943,120.254645,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3969,2,16,12,16,12,16:00:00,12:00:00,39.437191,116.167531,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3975,5,32,32,8,8,08:00:00,08:00:00,39.320799,115.666086,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+3982,51,20,28,20,4,20:00:00,04:00:00,41.12365,117.970569,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+3986,2,12,14,12,14,12:00:00,14:00:00,37.823713,115.686356,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3989,2,24,30,0,6,00:00:00,06:00:00,34.827747,111.344163,5,Other,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+3990,1,12,12,12,12,12:00:00,12:00:00,34.691727,112.318621,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+3991,2,30,22,6,22,06:00:00,22:00:00,34.673653,114.11387,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3992,4,32,32,8,8,08:00:00,08:00:00,35.403717,113.944923,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3997,5,24,28,0,4,00:00:00,04:00:00,35.511776,114.197142,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+3999,2,16,16,16,16,16:00:00,16:00:00,34.664817,112.264874,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+4003,37,24,28,0,4,00:00:00,04:00:00,33.313765,113.234746,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+401011281104040_,43,25,23,1,23,01:00:00,23:00:00,44.4814,142.335,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+401031281101050_,495,23,18,23,18,23:00:00,18:00:00,43.135,141.525,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+401031281104010_,13,25,23,1,23,01:00:00,23:00:00,43.8181,142.4258,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+401061281105020_,104,25,23,1,23,01:00:00,23:00:00,42.5733,141.9367,2,Cropland,2,Cropland,0.25,0,0.25,0.5,0,0.5,TRUE,Ag-dominated
+401081281107070_,51,34,34,10,10,10:00:00,10:00:00,42.9344,143.2033,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+401081281107090_,5,14,14,14,14,14:00:00,14:00:00,42.8078,143.5117,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+401101281108051_,517,33,16,9,16,09:00:00,16:00:00,43.9906,144.2189,5,Other,5,Other,0.25,0,0.5,0.25,0,0.25,FALSE,Mixed
+4012,9,18,16,18,16,18:00:00,16:00:00,34.721917,112.605462,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4015,9,28,28,4,4,04:00:00,04:00:00,34.755454,112.153882,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4016,9,20,20,20,20,20:00:00,20:00:00,33.874388,115.484812,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+4020,6,28,28,4,4,04:00:00,04:00:00,30.9232021,120.7132892,5,Other,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+402011282206020_,72,35,34,11,10,11:00:00,10:00:00,37.9217,140.7628,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+402011282218040_,7,15,15,15,15,15:00:00,15:00:00,37.4081,140.4094,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+402011282218070_,7,21,21,21,21,21:00:00,21:00:00,37.7272,140.4731,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+402011282218090_,24,32,15.5,8,15.5,08:00:00,15:30:00,37.8933,140.6428,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+402011282228040_,19,25,23,1,23,01:00:00,23:00:00,37.4242,140.5247,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+402011282228070_,7,21,21,21,21,21:00:00,21:00:00,37.3972,140.4864,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+402011282228160_,18,23,23,23,23,23:00:00,23:00:00,37.4142,140.4908,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+402021282206050_,31,34,34,10,10,10:00:00,10:00:00,38.2156,140.9094,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+402031282207080_,52,25,29,1,5,01:00:00,05:00:00,38.5311,141.0058,2,Cropland,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+402031282207090_,50,27,31,3,7,03:00:00,07:00:00,38.4156,141.1386,1,Natural vegetation,3,Urban,0.25,0.5,0,0.25,0,0.75,TRUE,Urban-dominated
+402041282204010_,6,34,15,10,15,10:00:00,15:00:00,39.835,141.1614,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+402041282204050_,61,23,21,23,21,23:00:00,21:00:00,39.5514,141.175,2,Cropland,1,Natural vegetation,0.3333333333333333,0.3333333333333333,0,0.3333333333333333,0,0.6666666666666666,TRUE,Mixed
+402041282204090_,57,21,23,21,23,21:00:00,23:00:00,39.1967,141.1272,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+402041282204110_,167,23,23,23,23,23:00:00,23:00:00,38.95,141.1817,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+402041282207090_,30,17,15,17,15,17:00:00,15:00:00,38.5,141.2489,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+402041282220220_,2,25,17,1,17,01:00:00,17:00:00,39.835,141.1614,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+402051282201010_,47,17,23,17,23,17:00:00,23:00:00,40.4861,141.4281,3,Urban,2,Cropland,0.25,0.25,0,0.5,0,0.75,TRUE,Ag-dominated
+402071282201010_,12,26,27,2,3,02:00:00,03:00:00,40.5922,140.4142,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+402071282201080_,98,25,23,1,23,01:00:00,23:00:00,40.8078,140.4375,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+402081282211040_,43,14,14,14,14,14:00:00,14:00:00,40.1978,140.2336,1,Natural vegetation,1,Natural vegetation,0.6666666666666666,0.3333333333333333,0,0,0,0.3333333333333333,TRUE,Natural-dominated
+402091282209020_,11,21,20,21,20,21:00:00,20:00:00,39.6144,140.1558,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+402101282209020_,7,25,25,1,1,01:00:00,01:00:00,39.3536,140.0697,2,Cropland,2,Cropland,0,0.3333333333333333,0,0.6666666666666666,0,1,TRUE,Ag-dominated
+402111282214070_,6,20,23,20,23,20:00:00,23:00:00,38.4203,140.3261,2,Cropland,2,Cropland,0.25,0.25,0,0.5,0,0.75,TRUE,Ag-dominated
+402111282216010_,16,16,16,16,16,16:00:00,16:00:00,38.6642,140.2731,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+403011283322030_,4,20,23,20,23,20:00:00,23:00:00,36.4964,140.5544,2,Cropland,3,Urban,0,0.6666666666666666,0,0.3333333333333333,0,1,TRUE,Urban-dominated
+403021283322090_,46,26,25,2,1,02:00:00,01:00:00,36.4594,140.4086,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+403031283301050_,52,20.5,22.5,20.5,22.5,20:30:00,22:30:00,36.1725,139.4725,2,Cropland,3,Urban,0,0.5,0.25,0.25,0,0.75,TRUE,Urban-dominated
+403031283301060_,24,23,19,23,19,23:00:00,19:00:00,36.1433,139.7047,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403031283301222_,11,25,30,1,6,01:00:00,06:00:00,36.2114,139.6786,5,Other,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+403031283302041_,2,15,19,15,19,15:00:00,19:00:00,35.8564,140.135,3,Urban,3,Urban,0,0.5,0.25,0.25,0,0.75,TRUE,Urban-dominated
+403031283302051_,826,25,26,1,2,01:00:00,02:00:00,35.8422,140.1617,5,Other,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+403031283302091_,9,19,23,19,23,19:00:00,23:00:00,35.8997,140.5028,3,Urban,2,Cropland,0.25,0,0.25,0.5,0,0.5,TRUE,Ag-dominated
+403031283302231_,11,25,23,1,23,01:00:00,23:00:00,35.8586,140.02440000000001,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+403031283303010_,89,22,21.5,22,21.5,22:00:00,21:30:00,36.1392,140.3397,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+403031283303071_,4,25,23,1,23,01:00:00,23:00:00,36.0378,140.4039,5,Other,5,Other,0,0,0.75,0.25,0,0.25,FALSE,Mixed
+403031283303091_,39,22.5,23,22.5,23,22:30:00,23:00:00,35.9647,140.4889,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+403031283303100_,27,32,32,8,8,08:00:00,08:00:00,35.935,140.5503,3,Urban,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+403031283303160_,40,23,19,23,19,23:00:00,19:00:00,36.1231,140.5286,5,Other,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+403031283303181_,14,20,23,20,23,20:00:00,23:00:00,36.0167,140.565,5,Other,5,Other,0,0.25,0.5,0.25,0,0.5,TRUE,Mixed
+403031283303191_,5,14,15,14,15,14:00:00,15:00:00,35.9622,140.6097,3,Urban,1,Natural vegetation,0.25,0.25,0.25,0.25,0,0.5,TRUE,Mixed
+403031283305030_,2,19,19,19,19,19:00:00,19:00:00,35.8458,139.8911,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403031283305120_,52,27,27,3,3,03:00:00,03:00:00,35.8478,139.8419,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403031283305140_,130,28,29.5,4,5.5,04:00:00,05:30:00,35.7786,139.8506,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403031283305470_,317,22,22,22,22,22:00:00,22:00:00,35.7981,139.8928,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403031283306041_,140,21,23,21,23,21:00:00,23:00:00,36.3269,139.4531,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403031283307130_,3,17,22,17,22,17:00:00,22:00:00,36.2475,139.9983,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+403031283323030_,56,25,23,1,23,01:00:00,23:00:00,36.2794,139.1203,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403041283309010_,533,25,25,1,1,01:00:00,01:00:00,35.8003,139.6469,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403051283310040_,30,23,23,23,23,23:00:00,23:00:00,35.6969,139.3475,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+403051283310050_,91,22,23,22,23,22:00:00,23:00:00,35.6792,139.4197,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403051283310100_,7,25,21,1,21,01:00:00,21:00:00,35.6022,139.6375,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403051283310180_,64,20,26,20,2,20:00:00,02:00:00,35.665,139.4122,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403061283310030_,3056,25,25,1,1,01:00:00,01:00:00,35.5336,139.6664,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403071283310010_,43,26,23,2,23,02:00:00,23:00:00,35.3319,139.3672,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+403081283324004_,21,19,19,19,19,19:00:00,19:00:00,35.5392,138.4572,1,Natural vegetation,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+403081283324009_,134,25,19,1,19,01:00:00,19:00:00,35.5764,138.5225,2,Cropland,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+4035,35,18,28,18,4,18:00:00,04:00:00,31.658505,113.558856,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4040,6,28,30,4,6,04:00:00,06:00:00,30.891566,113.312214,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+404021284402300_,49,33.5,33.5,9.5,9.5,09:30:00,09:30:00,37.8533,139.1547,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+404021284415300_,60,23,23,23,23,23:00:00,23:00:00,37.5586,139.8564,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+404031284401300_,238,26,17,2,17,02:00:00,17:00:00,37.8817,139.0189,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+404031284403300_,188,32,30,8,6,08:00:00,06:00:00,37.4506,138.8364,3,Urban,3,Urban,0,0.5,0.25,0.25,0,0.75,TRUE,Urban-dominated
+404031284416160_,48,24,30,0,6,00:00:00,06:00:00,36.2647,137.9442,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+404031284416300_,143,23,23,23,23,23:00:00,23:00:00,36.5322,138.1125,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+404031284416310_,17,16,16,16,16,16:00:00,16:00:00,36.2672,137.9436,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+404071284408030_,4,26.5,26.5,2.5,2.5,02:30:00,02:30:00,36.7303,137.2828,2,Cropland,3,Urban,0,0.6666666666666666,0,0.3333333333333333,0,1,TRUE,Urban-dominated
+404081284408040_,44,28,28,4,4,04:00:00,04:00:00,36.7461,137.2181,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+4041,1,12,12,12,12,12:00:00,12:00:00,31.537412,114.68585,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+404121284412020_,3,32,32,8,8,08:00:00,08:00:00,36.4061,136.4872,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+4042,7,12,20,12,20,12:00:00,20:00:00,32.36496,112.468554,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4045,1,16,16,16,16,16:00:00,16:00:00,30.236456,115.418687,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4047,17,28,28,4,4,04:00:00,04:00:00,29.861698,115.437402,3,Urban,1,Natural vegetation,0.5,0.25,0.25,0,0,0.25,FALSE,Natural-dominated
+4048,7,20,18,20,18,20:00:00,18:00:00,29.933344,112.791924,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+405011285508040_,51,25,23,1,23,01:00:00,23:00:00,35.0983,138.8706,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+405061285512050_,2,23,23,23,23,23:00:00,23:00:00,34.8106,137.4186,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+405071285512021_,36,25,25,1,1,01:00:00,01:00:00,35.0022,137.1667,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+405071285512040_,1,20,20,20,20,20:00:00,20:00:00,34.8894,137.0583,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+405081285505021_,3,26,23,2,23,02:00:00,23:00:00,35.3256,137.2947,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+405081285505031_,21,19.5,23,19.5,23,19:30:00,23:00:00,35.3172,137.3103,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+405081285505035_,19,25,24,1,0,01:00:00,00:00:00,35.3319,137.3231,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+405081285511070_,13,21.5,22.5,21.5,22.5,21:30:00,22:30:00,35.1992,136.8747,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+405091285502090_,6,21,21,21,21,21:00:00,21:00:00,35.3619,136.6878,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+405091285502120_,11,21,20,21,20,21:00:00,20:00:00,35.2967,136.6711,5,Other,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+405091285502200_,77,23,23,23,23,23:00:00,23:00:00,35.256100000000004,136.615,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+405091285502850_,1,13,13,13,13,13:00:00,13:00:00,35.3614,136.7569,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+405091285515010_,1,25,31,1,7,01:00:00,07:00:00,35.2261,136.6797,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+405091285515070_,4,26,29,2,5,02:00:00,05:00:00,35.1867,136.63,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+405091285515090_,2,28,23,4,23,04:00:00,23:00:00,35.0267,136.7103,5,Other,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+405091285515110_,4,25,27,1,3,01:00:00,03:00:00,35.2711,136.6742,3,Urban,5,Other,0,0,1,0,0,0,FALSE,Mixed
+405091285515170_,2,26,23,2,23,02:00:00,23:00:00,35.0603,136.7131,5,Other,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+405111285514021_,7,26,26,2,2,02:00:00,02:00:00,34.6467,136.5131,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+405131285514021_,12,26,28,2,4,02:00:00,04:00:00,34.4892,136.6856,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4053,10,28,30,4,6,04:00:00,06:00:00,29.810176,113.462786,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4054,5,28,28,4,4,04:00:00,04:00:00,30.480375,114.411567,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4057800,1,27,27,3,3,03:00:00,03:00:00,46.49910267,-87.8865238,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+406021286614020_,22,17.5,18,17.5,18,17:30:00,18:00:00,34.3469,135.6889,3,Urban,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+406021286614090_,37,18,23,18,23,18:00:00,23:00:00,34.2514,135.3106,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+406021286614111_,138,25,23,1,23,01:00:00,23:00:00,34.2542,135.1956,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+406031286607040_,60,25,26,1,2,01:00:00,02:00:00,34.5844,135.6839,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+406031286607060_,40,22,23,22,23,22:00:00,23:00:00,34.5819,135.6169,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+406031286607070_,9,21,27,21,3,21:00:00,03:00:00,34.5858,135.5019,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406041286603170_,20,22,22,22,22,22:00:00,22:00:00,35.2672,136.2225,5,Other,3,Urban,0.25,0.5,0.25,0,0,0.5,TRUE,Urban-dominated
+406041286603270_,15,27,16,3,16,03:00:00,16:00:00,35.1192,135.9419,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406041286603390_,15,21,23,21,23,21:00:00,23:00:00,35.0331,135.9136,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+406041286603430_,3,23,24,23,0,23:00:00,00:00:00,35.0139,135.8603,3,Urban,5,Other,0.25,0.25,0.5,0,0,0.25,FALSE,Mixed
+406041286603450_,88,21,20,21,20,21:00:00,20:00:00,35.0108,135.9214,3,Urban,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+406041286603500_,52,25,29,1,5,01:00:00,05:00:00,35.4011,136.2319,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+406041286603520_,4,25,23,1,23,01:00:00,23:00:00,35.1019,135.9931,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406041286606050_,46,24,23,0,23,00:00:00,23:00:00,34.8911,135.6994,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406041286606060_,111,24,23,0,23,00:00:00,23:00:00,34.8125,135.6317,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406041286606190_,48,22,23,22,23,22:00:00,23:00:00,34.8897,135.6994,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406041286606240_,29,26,27,2,3,02:00:00,03:00:00,34.9075,135.7167,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406041286608010_,22,20,20,20,20,20:00:00,20:00:00,34.855,135.415,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406041286608040_,199,25,27,1,3,01:00:00,03:00:00,34.7989,135.4233,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406041286618020_,1,13,13,13,13,13:00:00,13:00:00,34.8789,135.8467,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+406041286618030_,43,22,21,22,21,22:00:00,21:00:00,34.88,135.8281,1,Natural vegetation,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+406051286611030_,203,22,16.5,22,16.5,22:00:00,16:30:00,34.9653,134.9728,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406051286611060_,284,30,16,6,16,06:00:00,16:00:00,34.7975,134.89940000000001,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406061286611050_,116,26,28,2,4,02:00:00,04:00:00,34.8014,134.5631,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+406071286601060_,178,23,23,23,23,23:00:00,23:00:00,36.0878,136.1864,3,Urban,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+406091286605020_,34,20,20,20,20,20:00:00,20:00:00,35.3075,135.2261,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+406091286605050_,57,25,23,1,23,01:00:00,23:00:00,35.3556,135.1153,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+4061,6,20,28,20,4,20:00:00,04:00:00,32.662319,110.789239,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+406101286610020_,566,26,24,2,0,02:00:00,00:00:00,35.5436,134.83,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4063,50,28,32,4,8,04:00:00,08:00:00,32.086108,112.607012,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4065,2,32,22,8,22,08:00:00,22:00:00,31.724546,113.298941,1,Natural vegetation,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+4069,1,20,20,20,20,20:00:00,20:00:00,31.45536,112.424951,3,Urban,2,Cropland,0,0,0.3333333333333333,0.6666666666666666,0,0.6666666666666666,TRUE,Ag-dominated
+407041287705100_,36,23,23,23,23,23:00:00,23:00:00,35.4656,133.0533,3,Urban,3,Urban,0,0.5,0.25,0,0.25,0.5,TRUE,Urban-dominated
+407051287711030_,1,16,16,16,16,16:00:00,16:00:00,34.8169,132.8342,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+407091287712070_,25,21,21,21,21,21:00:00,21:00:00,34.4972,132.5139,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+4071,3,16,16,16,16,16:00:00,16:00:00,31.736074,110.833152,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+4080,4,30,32,6,8,06:00:00,08:00:00,29.398746,112.329403,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+408011288805002_,31,22,23,22,23,22:00:00,23:00:00,33.8069,132.7272,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4082,2,22,22,22,22,22:00:00,22:00:00,27.190669,111.536969,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4085108,23,25,33,1,9,01:00:00,09:00:00,44.37194444,-88.0922222,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4087119,2,31.5,33.5,7.5,9.5,07:30:00,09:30:00,43.0438333,-88.0051111,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+40871488,9,22,26,22,2,22:00:00,02:00:00,42.99025,-87.9523333,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4087170,2,17.5,18.5,17.5,18.5,17:30:00,18:30:00,43.02444444,-87.8983333,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+409003,6,27.5,27.5,3.5,3.5,03:30:00,03:30:00,-35.53,144.9657,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+409005,3,28,31,4,7,04:00:00,07:00:00,-35.6298,144.1245,3,Urban,2,Cropland,0.25,0,0,0.5,0.25,0.5,TRUE,Ag-dominated
+409013,26,25,21,1,21,01:00:00,21:00:00,-35.0376,143.5702,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.25,0.25,0.25,FALSE,Natural-dominated
+409014,36,23,27,23,3,23:00:00,03:00:00,-35.0899,144.0331,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+409016,6,18,34,18,10,18:00:00,10:00:00,-36.09927778,147.0239833,2,Cropland,2,Cropland,0,0,0,0.5,0.5,0.5,TRUE,Ag-dominated
+409025,1,34,14,10,14,10:00:00,14:00:00,-36.0114,145.994,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+409036,19,23,16,23,16,23:00:00,16:00:00,-35.1074,143.5826,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+409044,18,21,25,21,1,21:00:00,01:00:00,-35.5214,144.0517,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+409047,7,26,23,2,23,02:00:00,23:00:00,-35.6428,144.9596,4,Wetland,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+409048,27,23,16,23,16,23:00:00,16:00:00,-35.2739,144.1595,1,Natural vegetation,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+409061289901500_,64,25,23,1,23,01:00:00,23:00:00,33.33,130.5261,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+409062,28,21,20,21,20,21:00:00,20:00:00,-35.329,143.9322,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+409086,22,23,15.5,23,15.5,23:00:00,15:30:00,-35.1351,143.8001,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4094,18,28,20,4,20,04:00:00,20:00:00,27.362076,107.413232,5,Other,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+410040,18,26,16.5,2,16.5,02:00:00,16:30:00,-34.4776,144.3009,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+410130,48,23,15,23,15,23:00:00,15:00:00,-34.665,143.4917,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+4104,2,22,22,22,22,22:00:00,22:00:00,39.510908,122.475631,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4106,6,28,28,4,4,04:00:00,04:00:00,41.061356,122.282673,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4109,3,28,28,4,4,04:00:00,04:00:00,41.307508,124.132657,3,Urban,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+4111,3,20,26,20,2,20:00:00,02:00:00,41.835441,123.42944,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4112,3,24,28,0,4,00:00:00,04:00:00,40.223583,124.507297,5,Other,1,Natural vegetation,0.5,0.25,0.25,0,0,0.25,FALSE,Natural-dominated
+4118,221,20,16,20,16,20:00:00,16:00:00,41.039546,120.977806,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+4119,20,28,28,4,4,04:00:00,04:00:00,39.324437,122.211445,2,Cropland,2,Cropland,0.25,0,0.25,0.5,0,0.5,TRUE,Ag-dominated
+412004,60,20,23,20,23,20:00:00,23:00:00,-33.41080904,147.9910504,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+412005,23,23,23,23,23,23:00:00,23:00:00,-33.8695,144.8811,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+412006,15,25,23,1,23,01:00:00,23:00:00,-33.091,147.1482,3,Urban,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+412011,92,21,25,21,1,21:00:00,01:00:00,-33.201,146.4532,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+412038,63,21,23,21,23,21:00:00,23:00:00,-33.348326,145.87524,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+412039,15,24,23,0,23,00:00:00,23:00:00,-33.4873,145.504,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+412047,66,22,23,22,23,22:00:00,23:00:00,-33.3824,145.9027,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+4121660,13,19,22,19,22,19:00:00,22:00:00,43.61308,-85.4778209,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+4121680,583,25,32,1,8,01:00:00,08:00:00,43.485857,-85.63060189,5,Other,1,Natural vegetation,0.75,0,0.25,0,0,0,FALSE,Natural-dominated
+4121970,14,19.5,21,19.5,21,19:30:00,21:00:00,43.43474558,-85.6653239,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+4135,2,28,14,4,14,04:00:00,14:00:00,28.9994404,105.8508137,5,Other,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+4137030,20,29,31.5,5,7.5,05:00:00,07:30:00,44.47279328,-83.57108839,1,Natural vegetation,1,Natural vegetation,0.75,0,0.25,0,0,0,FALSE,Natural-dominated
+4153,6,32,32,8,8,08:00:00,08:00:00,35.00617,108.73628,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4154,2,28,28,4,4,04:00:00,04:00:00,34.353997,107.27176300000001,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4156,15,20,20,20,20,20:00:00,20:00:00,34.460378,109.251996,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+4157005,7,17,19,17,19,17:00:00,19:00:00,43.4219699,-83.951918,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4159,20,28,24,4,0,04:00:00,00:00:00,34.564536,109.485973,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+4160,1,12,12,12,12,12:00:00,12:00:00,34.45589,109.005226,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+4162,17,18,20,18,20,18:00:00,20:00:00,34.613631,110.2348456,2,Cropland,2,Cropland,0,0,0,0.75,0.25,0.75,TRUE,Ag-dominated
+4165,1,32,32,8,8,08:00:00,08:00:00,33.216619,107.952694,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+4165500,5,28,33,4,9,04:00:00,09:00:00,42.5958674,-82.90881,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4166,6,20,20,20,20,20:00:00,20:00:00,36.556856,101.930057,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+4166500,38,27,28.5,3,4.5,03:00:00,04:30:00,42.3730923,-83.2546513,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4168400,30,25.5,32.5,1.5,8.5,01:30:00,08:30:00,42.30837099,-83.2527063,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4171,3,12,12,12,12,12:00:00,12:00:00,33.011787,97.255347,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+4177,2,14,24,14,0,14:00:00,00:00:00,51.763712,126.639504,5,Other,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+4179,2,30,32,6,8,06:00:00,08:00:00,46.567284,132.633838,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4182,2,16,20,16,20,16:00:00,20:00:00,45.401432,126.29911800000001,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+4183038,61,23,23,23,23,23:00:00,23:00:00,41.1830833,-84.8696944,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4183500,2,28,33.5,4,9.5,04:00:00,09:30:00,41.19893889,-84.7444033,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4184,1,16,16,16,16,16:00:00,16:00:00,45.316643,132.585736,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+4186,48,20,20,20,20,20:00:00,20:00:00,46.3054261,129.5434746,3,Urban,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+4187,1,12,12,12,12,12:00:00,12:00:00,45.4936489,125.0451846,3,Urban,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+4188496,323,27,23,3,23,03:00:00,23:00:00,40.9792203,-83.6532653,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4192,1,16,20,16,20,16:00:00,20:00:00,50.2386399,127.5357671,3,Urban,3,Urban,0,0.5,0.5,0,0,0.5,TRUE,Urban-dominated
+4193500,31,23,30,23,6,23:00:00,06:00:00,41.5000526,-83.7127145,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+42001,56,24,19,0,19,00:00:00,19:00:00,42.01040278,-121.5614222,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+42071,165,25,25,1,1,01:00:00,01:00:00,42.12805556,-121.9277778,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+42081,92,23,23,23,23,23:00:00,23:00:00,42.14258889,-121.672186,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+422001,71,25,23,1,23,01:00:00,23:00:00,-30.01531667,148.06075,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+422002,71,25,23,1,23,01:00:00,23:00:00,-29.94716667,146.8637167,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+422003,86,26,22,2,22,02:00:00,22:00:00,-29.547141,148.576104,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+4220045,45,29,32,5,8,05:00:00,08:00:00,43.17430556,-78.38638889,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+4220223,1,25,25,1,1,01:00:00,01:00:00,43.3390833,-77.9152222,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+422027,55,23,15,23,15,23:00:00,15:00:00,-30.14343333,147.3768667,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+425001,8,22,18,22,18,22:00:00,18:00:00,-32.3969,142.4218,1,Natural vegetation,1,Natural vegetation,0.75,0,0.25,0,0,0,FALSE,Natural-dominated
+425003,77,25,23,1,23,01:00:00,23:00:00,-30.087894,145.936761,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+425004,28,25,23,1,23,01:00:00,23:00:00,-30.53474142,145.1150748,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+425007,8,28,21,4,21,04:00:00,21:00:00,-33.74641667,142.2682778,1,Natural vegetation,4,Wetland,0.25,0,0,0.25,0.5,0.25,FALSE,Mixed
+425012,12,27,16,3,16,03:00:00,16:00:00,-32.4353,142.3799,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+425039,59,23,23,23,23,23:00:00,23:00:00,-29.9646,146.3004,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+45301,164,27,18,3,18,03:00:00,18:00:00,45.5009505,-122.852045,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+45303,1,19,19,19,19,19:00:00,19:00:00,45.5081944,-122.9335,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+50048565,22,20,22,20,22,20:00:00,22:00:00,18.4070314,-66.118083,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+50048580,1544,22,27,22,3,22:00:00,03:00:00,18.4201918,-66.1160552,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+5051522,3,20,26,20,2,20:00:00,02:00:00,46.65968548,-96.7959154,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5054000,2,28.5,31,4.5,7,04:30:00,07:00:00,46.861075,-96.7836924,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+5057000,7,19,22,19,22,19:00:00,22:00:00,47.43277097,-98.0275954,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5062130,1,27,31,3,7,03:00:00,07:00:00,47.0926944,-96.8170556,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5114000,81,29,32,5,8,05:00:00,08:00:00,48.98995719,-101.9583348,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5117500,5,14,20,14,20,14:00:00,20:00:00,48.2458428,-101.3712745,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5124000,80,27,23,3,23,03:00:00,23:00:00,48.9964079,-100.9584889,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5406457,1,28,33,4,9,04:00:00,09:00:00,43.1097222,-89.6408333,3,Urban,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+5406469,4,28,31.5,4,7.5,04:00:00,07:30:00,43.12527778,-89.635,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+5406479,10,20,26,20,2,20:00:00,02:00:00,43.1147222,-89.6641667,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+5435943,41,26,30,2,6,02:00:00,06:00:00,42.97694444,-89.5394444,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5435950,4,25,32.5,1,8.5,01:00:00,08:30:00,42.94916667,-89.5441667,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5474500,9,28,30,4,6,04:00:00,06:00:00,40.39365535,-91.374318,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+5515500,13,21.5,30,21.5,6,21:30:00,06:00:00,41.38963889,-86.7061667,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5524500,2,29.5,21.5,5.5,21.5,05:30:00,21:30:00,40.87059306,-87.3066912,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5537980,32,26,25,2,1,02:00:00,01:00:00,41.5364722,-88.0836944,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+5545750,12,30,31,6,7,06:00:00,07:00:00,42.61085116,-88.225923,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5549500,97,22,31,22,7,22:00:00,07:00:00,42.3100222,-88.2514745,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+5558300,14,26.5,23.5,2.5,23.5,02:30:00,23:30:00,41.10727778,-89.3562222,5,Other,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+5559900,12,22.5,25.5,22.5,1.5,22:30:00,01:30:00,40.72503739,-89.5495396,4,Wetland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+5567500,38,22,21,22,21,22:00:00,21:00:00,40.6235,-89.2416667,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5586300,8,29.5,31.5,5.5,7.5,05:30:00,07:30:00,39.63275,-90.6076667,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+5599490,165,26,23,2,23,02:00:00,23:00:00,37.7583333,-89.3277778,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+613,104,25,29,1,5,01:00:00,05:00:00,48.7574,11.4261,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+616,14,16,23,16,23,16:00:00,23:00:00,48.8798,12.7473,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6193,6,28,28,4,4,04:00:00,04:00:00,29.821683,113.463833,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6194,3,16,20,16,20,16:00:00,20:00:00,30.317805,103.970525,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6195,11,28,32,4,8,04:00:00,08:00:00,41.741893,83.171831,2,Cropland,5,Other,0,0,0.75,0.25,0,0.25,FALSE,Mixed
+6198,1,16,16,16,16,16:00:00,16:00:00,35.874223,94.566714,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+6199,1,20,20,20,20,20:00:00,20:00:00,35.451425,109.462752,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+6201,2,12,20,12,20,12:00:00,20:00:00,37.3924,110.631,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+6205,22,28,20,4,20,04:00:00,20:00:00,40.6807,122.2336,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+6214,27,28,32,4,8,04:00:00,08:00:00,34.7589,117.0059,2,Cropland,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+6218,12,28,32,4,8,04:00:00,08:00:00,33.4816,118.1131,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6221,52,28,28,4,4,04:00:00,04:00:00,33.8744,116.5878,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6223,10,24,32,0,8,00:00:00,08:00:00,32.7923,117.9642,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+6224,15,20,32,20,8,20:00:00,08:00:00,33.1689,118.1492,5,Other,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6225,27,28,32,4,8,04:00:00,08:00:00,32.3088,118.4555,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6226,57,28,32,4,8,04:00:00,08:00:00,32.0978,118.2887,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6227,4,18,20,18,20,18:00:00,20:00:00,32.4286,115.6024,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6233,7,28,30,4,6,04:00:00,06:00:00,28.7682,116.0853,5,Other,1,Natural vegetation,0.25,0.25,0.25,0.25,0,0.5,TRUE,Mixed
+6234,3,20,32,20,8,20:00:00,08:00:00,29.2455,116.1894,5,Other,5,Other,0,0,0.75,0.25,0,0.25,FALSE,Mixed
+6237,3,28,28,4,4,04:00:00,04:00:00,36.725,116.9886,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6238,1,20,20,20,20,20:00:00,20:00:00,34.8042,117.1695,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6242,65,28,32,4,8,04:00:00,08:00:00,33.8068,116.3924,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6251,11,28,30,4,6,04:00:00,06:00:00,29.063,112.2989,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6253,50,28,28,4,4,04:00:00,04:00:00,23.1376,113.7508,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6255,1,32,32,8,8,08:00:00,08:00:00,22.7836,108.1264,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6261,5,20,20,20,20,20:00:00,20:00:00,30.2604,103.891,3,Urban,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+6268,88,28,32,4,8,04:00:00,08:00:00,25.1477,102.0548,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+6328,13,18,32,18,8,18:00:00,08:00:00,31.955,119.9805,3,Urban,3,Urban,0,0.75,0.25,0,0,0.75,TRUE,Urban-dominated
+6330,1,16,16,16,16,16:00:00,16:00:00,26.6586,106.8425,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+6346,35,28,32,4,8,04:00:00,08:00:00,38.6862,117.047,2,Cropland,2,Cropland,0,0.25,0,0.75,0,1,TRUE,Ag-dominated
+6348,1,12,12,12,12,12:00:00,12:00:00,36.1678,103.483,3,Urban,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+6350,58,20,32,20,8,20:00:00,08:00:00,31.6554,117.2733,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6353,8,16,18,16,18,16:00:00,18:00:00,49.3061,118.0472,1,Natural vegetation,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+6354890,56,28,32,4,8,04:00:00,08:00:00,45.9524438,-103.3069613,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+6354980,122,27,32,3,8,03:00:00,08:00:00,46.0177216,-103.2919615,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+6355,1,16,16,16,16,16:00:00,16:00:00,28.6074,121.0616,5,Other,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+6365,15,28,28,4,4,04:00:00,04:00:00,40.2585,111.148,1,Natural vegetation,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+6373,2,20,20,20,20,20:00:00,20:00:00,44.3966,127.692,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+6382,40,20,20,20,20,20:00:00,20:00:00,28.6919,121.3277,5,Other,5,Other,0,0,0.6666666666666666,0.3333333333333333,0,0.3333333333333333,TRUE,Mixed
+6384,3,20,32,20,8,20:00:00,08:00:00,31.2695,118.3338,3,Urban,3,Urban,0,0.5,0,0.25,0.25,0.75,TRUE,Urban-dominated
+6387,6,28,16,4,16,04:00:00,16:00:00,30.7703,117.7527,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+6389,1,16,16,16,16,16:00:00,16:00:00,31.1034,118.9031,5,Other,5,Other,0.25,0,0.75,0,0,0,FALSE,Mixed
+6395,6,20,32,20,8,20:00:00,08:00:00,36.2594,120.4698,5,Other,3,Urban,0.25,0.5,0.25,0,0,0.5,TRUE,Urban-dominated
+6396,52,28,28,4,4,04:00:00,04:00:00,35.0878,116.6297,2,Cropland,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+6398,8,28,32,4,8,04:00:00,08:00:00,35.0394,116.6677,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6400,7,20,26,20,2,20:00:00,02:00:00,35.8937,116.5525,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6419,22,28,20,4,20,04:00:00,20:00:00,30.6003,115.4457,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+6425,187,18,28,18,4,18:00:00,04:00:00,22.5077,114.0357,4,Wetland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6426,5,24,28,0,4,00:00:00,04:00:00,21.4314,110.7946,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6430,75,20,20,20,20,20:00:00,20:00:00,23.0588,113.7525,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6442,46,20,20,20,20,20:00:00,20:00:00,29.2443,104.2998,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6448,67,20,32,20,8,20:00:00,08:00:00,25.0115,102.6694,3,Urban,3,Urban,0,0.5,0,0,0.5,0.5,TRUE,Urban-dominated
+6486,3,28,22,4,22,04:00:00,22:00:00,21.3002,110.3065,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6489,2,14,14,14,14,14:00:00,14:00:00,40.8675,108.7942,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+6711565,11,25,30,1,6,01:00:00,06:00:00,39.66498738,-105.004149,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6800500,8,22,27,22,3,22:00:00,03:00:00,41.2933333,-96.2838889,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6801000,1,33,12,9,12,09:00:00,12:00:00,41.06225556,-96.3245139,5,Other,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6805000,48,21,22.5,21,22.5,21:00:00,22:30:00,41.05166667,-96.3386111,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6805500,5,25,27,1,3,01:00:00,03:00:00,41.01497778,-96.1575,3,Urban,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6818000,11,22,22,22,22,22:00:00,22:00:00,39.75325,-94.8568333,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+6819550,17,21,25,21,1,21:00:00,01:00:00,40.4311111,-94.7722222,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6856600,1,20,21,20,21,20:00:00,21:00:00,39.3555515,-97.1275203,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6879150,1,17,20,17,20,17:00:00,20:00:00,39.0902755,-96.7133394,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6888990,2,26,29,2,5,02:00:00,05:00:00,39.07194435,-95.7163715,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+6889110,18,22,22,22,22,22:00:00,22:00:00,39.6095472,-95.9760556,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6889160,6,25.5,32.5,1.5,8.5,01:30:00,08:30:00,39.4631449,-95.9505944,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6892518,8,27,32,3,8,03:00:00,08:00:00,39.0461111,-94.7894444,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6892900,9,26.5,31,2.5,7,02:30:00,07:00:00,39.0440833,-94.6560139,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6893620,12,21,32,21,8,21:00:00,08:00:00,39.11194444,-94.4722222,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+6893820,6,25.5,22.5,1.5,22.5,01:30:00,22:30:00,39.0173611,-94.3872778,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+6894650,2,23,28,23,4,23:00:00,04:00:00,39.1336111,-94.0638889,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6899900,8,29,31,5,7,05:00:00,07:00:00,40.45444444,-93.2863889,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6900050,4,24,24.5,0,0.5,00:00:00,00:30:00,40.0266111,-93.4362222,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6902000,3,34,17,10,17,10:00:00,17:00:00,39.64002778,-93.2736944,2,Cropland,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+6914950,26,28,18.5,4,18.5,04:00:00,18:30:00,38.75334168,-94.977188,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+6914990,45,26,28,2,4,02:00:00,04:00:00,38.7675084,-94.8794073,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+6934500,4,18.5,18.5,18.5,18.5,18:30:00,18:30:00,38.70980556,-91.4385,5,Other,2,Cropland,0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0,0.6666666666666666,TRUE,Mixed
+7048600,7,29,31,5,7,05:00:00,07:00:00,36.07305556,-94.0811111,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7049691,108,27,26,3,2,03:00:00,02:00:00,36.4208333,-93.8472222,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7054501,51,25,30,1,6,01:00:00,06:00:00,36.365,-92.575,1,Natural vegetation,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+7054527,1,21,12,21,12,21:00:00,12:00:00,36.3436111,-92.5741667,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7061270,2,26.5,21,2.5,21,02:30:00,21:00:00,37.55255556,-90.8424444,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7061290,139,23,32,23,8,23:00:00,08:00:00,37.4936111,-90.8383333,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7075270,28,27,29,3,5,03:00:00,05:00:00,35.5697222,-92.6219444,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7076000,4,22,25,22,1,22:00:00,01:00:00,35.5172222,-91.9972222,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7099400,281,18,32,18,8,18:00:00,08:00:00,38.2716694,-104.718033,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7109500,1,34,35,10,11,10:00:00,11:00:00,38.24805799,-104.3991356,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7143672,6,20.5,24.5,20.5,0.5,20:30:00,00:30:00,38.02853056,-97.5405417,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+7144100,6,30,31.5,6,7.5,06:00:00,07:30:00,37.88306739,-97.4244864,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+7164500,14,28,32,4,8,04:00:00,08:00:00,36.14064807,-96.0063866,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+7177500,1,20,21,20,21,20:00:00,21:00:00,36.27842534,-95.954162,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7178200,1,18,19,18,19,18:00:00,19:00:00,36.2231514,-95.8194322,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+7198000,216,25,29,1,5,01:00:00,05:00:00,35.5731511,-95.0688458,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7239000,226,26,32,2,8,02:00:00,08:00:00,36.07698408,-98.59675,1,Natural vegetation,1,Natural vegetation,0.5,0,0.25,0.25,0,0.25,FALSE,Natural-dominated
+7239450,31,27,32,3,8,03:00:00,08:00:00,35.6169933,-98.0653316,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+7241000,205,22.5,32,22.5,8,22:30:00,08:00:00,35.47866848,-97.6633752,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+7241520,125,27,31,3,7,03:00:00,07:00:00,35.5656147,-97.367258,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7241550,230,23,30,23,6,23:00:00,06:00:00,35.5003412,-97.1939194,2,Cropland,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+7263296,617,26,28,2,4,02:00:00,04:00:00,34.87888889,-92.6855556,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+72632966,131,25,25,1,1,01:00:00,01:00:00,34.87527778,-92.6538889,5,Other,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+7288068,27,21,27,21,3,21:00:00,03:00:00,34.07475,-90.6249444,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+7288150,190,25,28,1,4,01:00:00,04:00:00,34.0093333,-90.7560833,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+7288500,28,23,21,23,21,23:00:00,21:00:00,33.5473557,-90.5431579,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+7288521,16,27,26.5,3,2.5,03:00:00,02:30:00,33.54825,-90.6723611,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+7332605,86,23,23,23,23,23:00:00,23:00:00,33.57579444,-96.1557444,2,Cropland,1,Natural vegetation,0.25,0.25,0.25,0.25,0,0.5,TRUE,Mixed
+7332622,75,30,31,6,7,06:00:00,07:00:00,33.74416667,-95.9611111,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+7380255,140,28,29,4,5,04:00:00,05:00:00,29.57673333,-89.9864083,4,Wetland,5,Other,0,0,0.75,0,0.25,0,FALSE,Mixed
+8047050,19,27,20.5,3,20.5,03:00:00,20:30:00,32.6951316,-97.4472422,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+8048000,391,28,31,4,7,04:00:00,07:00:00,32.76096337,-97.3325167,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+8049500,9,18,19,18,19,18:00:00,19:00:00,32.7625,-96.9944444,3,Urban,3,Urban,0.25,0.75,0,0,0,0.75,TRUE,Urban-dominated
+8052700,350,26,32,2,8,02:00:00,08:00:00,33.28344977,-96.8927805,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+8052745,83,22,25,22,1,22:00:00,01:00:00,33.219298,-96.8919565,3,Urban,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+8057000,13,33,17.5,9,17.5,09:00:00,17:30:00,32.7748517,-96.8219464,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+8057410,23,25.5,21,1.5,21,01:30:00,21:00:00,32.70763139,-96.7358319,4,Wetland,3,Urban,0.25,0.5,0,0,0.25,0.5,TRUE,Urban-dominated
+8065350,11,27,27,3,3,03:00:00,03:00:00,31.33851319,-95.6563407,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8068000,12,33,33,9,9,09:00:00,09:00:00,30.24465738,-95.4571616,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+8068500,13,28,29,4,5,04:00:00,05:00:00,30.11049517,-95.4363275,3,Urban,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8069500,271,29,32,5,8,05:00:00,08:00:00,30.02716385,-95.2579888,1,Natural vegetation,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+8070200,24,23,25,23,1,23:00:00,01:00:00,30.14523056,-95.1246139,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8181500,22,24,28,0,4,00:00:00,04:00:00,29.2641276,-98.4908493,4,Wetland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8181800,24,26,21,2,21,02:00:00,21:00:00,29.2221853,-98.3558463,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+8188060,3,17,21,17,21,17:00:00,21:00:00,28.84869444,-97.7371389,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+8188500,2,23.5,18,23.5,18,23:30:00,18:00:00,28.6492861,-97.3848583,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+8211200,5,28,28,4,4,04:00:00,04:00:00,27.93779594,-97.7758308,2,Cropland,2,Cropland,0,0,0,0.5,0.5,0.5,TRUE,Ag-dominated
+8371500,111,25,25,1,1,01:00:00,01:00:00,29.6210127,-104.4810367,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+8374200,63,26,29,2,5,02:00:00,05:00:00,29.51962973,-104.2865896,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8374510,49,23,23,23,23,23:00:00,23:00:00,29.1547222,-103.5977778,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8375300,101,23,24,23,0,23:00:00,00:00:00,29.1835386,-102.9754409,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8377200,39,20.5,28,20.5,4,20:30:00,04:00:00,29.78075694,-101.7559523,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8412500,401,27,33,3,9,03:00:00,09:00:00,31.87264499,-103.8315949,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8437710,1364,23,32,23,8,23:00:00,08:00:00,31.3668055,-103.0059908,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8446500,1692,27,32,3,8,03:00:00,08:00:00,31.11320329,-102.4176419,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8447000,15,31,33,7,9,07:00:00,09:00:00,30.65961373,-101.7701244,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+8474115,11,34,34,10,10,10:00:00,10:00:00,25.95733333,-97.4215,3,Urban,3,Urban,0,0.5,0,0.25,0.25,0.75,TRUE,Urban-dominated
+8474320,32,29,30.5,5,6.5,05:00:00,06:30:00,25.95666667,-97.3754167,3,Urban,3,Urban,0,0.5,0,0,0.5,0.5,TRUE,Urban-dominated
+9037500,1,35,12,11,12,11:00:00,12:00:00,40.0002,-106.1803667,1,Natural vegetation,1,Natural vegetation,0.6666666666666666,0,0,0.3333333333333333,0,0.3333333333333333,TRUE,Natural-dominated
+9041400,7,19,32,19,8,19:00:00,08:00:00,40.10859628,-106.4139212,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+9095500,2,29,29.5,5,5.5,05:00:00,05:30:00,39.2391463,-108.2661946,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+9379500,2,21,22,21,22,21:00:00,22:00:00,37.15067778,-109.8666889,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+9406000,4,17.5,18,17.5,18,17:30:00,18:00:00,37.2041494,-113.1807789,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A2390542,5,12,26,12,2,12:00:00,02:00:00,-36.945858,140.74025,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+A2391077,34,28,28,4,4,04:00:00,04:00:00,-37.391211,139.945693,5,Other,4,Wetland,0,0,0.5,0,0.5,0,FALSE,Mixed
+A2391078,183,28,31,4,7,04:00:00,07:00:00,-37.427827,139.990479,5,Other,5,Other,0.3333333333333333,0,0.6666666666666666,0,0,0,FALSE,Mixed
+A2391081,70,16,23,16,23,16:00:00,23:00:00,-36.572526,140.005692,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+A2391082,1,27,31,3,7,03:00:00,07:00:00,-36.546058,139.881494,4,Wetland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+A2391085,62,24.5,23,0.5,23,00:30:00,23:00:00,-36.7379,140.2577,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+A2391086,17,22.5,23,22.5,23,22:30:00,23:00:00,-36.5802,140.3056,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+A2391152,71,28,32,4,8,04:00:00,08:00:00,-36.294824,139.93055,1,Natural vegetation,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+A4260554,5,29,33,5,9,05:00:00,09:00:00,-34.021444,139.68861,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A4260573,1,32,23,8,23,08:00:00,23:00:00,-34.174481,140.217719,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+A4260580,16,25,25.5,1,1.5,01:00:00,01:30:00,-33.9211,140.9525,1,Natural vegetation,5,Other,0,0,1,0,0,0,FALSE,Mixed
+A4260594,5,27,13,3,13,03:00:00,13:00:00,-34.15,139.9151,5,Other,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+A4260633,117,28,29.5,4,5.5,04:00:00,05:30:00,-35.901976,139.3956,1,Natural vegetation,5,Other,0,0,1,0,0,0,FALSE,Mixed
+A4260644,10,19.5,14,19.5,14,19:30:00,14:00:00,-34.25953,140.759761,4,Wetland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+A4260645,1,16,23,16,23,16:00:00,23:00:00,-34.264687,140.687294,1,Natural vegetation,1,Natural vegetation,0.6666666666666666,0,0,0.3333333333333333,0,0.3333333333333333,TRUE,Natural-dominated
+A4260702,2,30,33,6,9,06:00:00,09:00:00,-34.062186,139.839139,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A4260703,1,33,23,9,23,09:00:00,23:00:00,-34.15414,140.77938,5,Other,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+A4261022,17,24,23,0,23,00:00:00,23:00:00,-33.9798,140.9615,1,Natural vegetation,1,Natural vegetation,0.75,0,0.25,0,0,0,FALSE,Natural-dominated
+A4261023,1,21,23,21,23,21:00:00,23:00:00,-34.2524,140.7166,4,Wetland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A4261024,9,28,15,4,15,04:00:00,15:00:00,-34.4505,140.511,2,Cropland,2,Cropland,0,0,0,0.5,0.5,0.5,TRUE,Ag-dominated
+A4261053,21,21,23,21,23,21:00:00,23:00:00,-34.267527,140.808721,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+A4261055,4,21.5,13.5,21.5,13.5,21:30:00,13:30:00,-34.223598,140.808045,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.25,0.25,0.25,FALSE,Natural-dominated
+A4261107,21,25,23,1,23,01:00:00,23:00:00,-33.952305,140.902121,1,Natural vegetation,1,Natural vegetation,0.5,0,0.5,0,0,0,FALSE,Natural-dominated
+A4261108,16,27,32,3,8,03:00:00,08:00:00,-34.383541,140.546401,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A4261124,6,21,18,21,18,21:00:00,18:00:00,-35.495993,138.90628,5,Other,1,Natural vegetation,0.3333333333333333,0,0.3333333333333333,0.3333333333333333,0,0.3333333333333333,TRUE,Mixed
+A4261134,3,32,23,8,23,08:00:00,23:00:00,-35.6005,139.0266,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+A4261139,1359,23,22,23,22,23:00:00,22:00:00,-35.1877,138.9135,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+A4261165,5,28,23,4,23,04:00:00,23:00:00,-36.10874,139.608272,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+A4261168,1,28,23,4,23,04:00:00,23:00:00,-34.026439,140.84037,4,Wetland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+A4261173,18,30,23,6,23,06:00:00,23:00:00,-35.232757,138.990179,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+A4261204,25,22,29.5,22,5.5,22:00:00,05:30:00,-35.534114,138.909811,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A4261224,48,25,17,1,17,01:00:00,17:00:00,-34.00223,140.862866,5,Other,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A4261255,14,19,17,19,17,19:00:00,17:00:00,-34.335475,140.547905,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A4261262,3,21,34,21,10,21:00:00,10:00:00,-34.24422,140.74787,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A4261263,13,28,17,4,17,04:00:00,17:00:00,-34.406627,140.48899,4,Wetland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A4261264,106,23,26,23,2,23:00:00,02:00:00,-34.374941,140.54009,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A4261265,45,26.5,23,2.5,23,02:30:00,23:00:00,-34.328343,140.564594,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0,0.5,0,FALSE,Natural-dominated
+A4261268,11,18,23,18,23,18:00:00,23:00:00,-34.22152,140.77173,5,Other,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+A4261270,6,17.5,23,17.5,23,17:30:00,23:00:00,-34.212264,140.781963,4,Wetland,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+A4261271,6,16.5,23,16.5,23,16:30:00,23:00:00,-34.20895,140.771704,1,Natural vegetation,4,Wetland,0,0,0,0,1,0,FALSE,Mixed
+A4261536,8,27,15,3,15,03:00:00,15:00:00,-34.34763,140.53045,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+A4261539,13,20,23,20,23,20:00:00,23:00:00,-34.22626,140.77031,4,Wetland,1,Natural vegetation,0.6666666666666666,0,0,0,0.3333333333333333,0,FALSE,Natural-dominated
+A4261789,2,13.5,24.5,13.5,0.5,13:30:00,00:30:00,-34.26358,140.38606,5,Other,5,Other,0,0,1,0,0,0,FALSE,Mixed
+A5011036,169,27,23,3,23,03:00:00,23:00:00,-35.4966,138.51378,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+A5011038,209,19,18,19,18,19:00:00,18:00:00,-35.55523,138.60883,3,Urban,2,Cropland,0,0.25,0.25,0.5,0,0.75,TRUE,Ag-dominated
+A5011039,201,27,22,3,22,03:00:00,22:00:00,-35.53251,138.6235,2,Cropland,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+A5011040,110,22,19,22,19,22:00:00,19:00:00,-35.44815,138.31725,3,Urban,2,Cropland,0,0,0.5,0.5,0,0.5,TRUE,Ag-dominated
+A5040517,39,16,23,16,23,16:00:00,23:00:00,-34.9703,138.6813,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+Carrat,34,18,23,18,23,18:00:00,23:00:00,45.829041,4.311987,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+Caversham,3,25,34,1,10,01:00:00,10:00:00,51.465551,-0.976395,3,Urban,1,Natural vegetation,0.5,0.5,0,0,0,0.5,TRUE,Urban-dominated
+Charpassonne Chanin,2,27.5,32.5,3.5,8.5,03:30:00,08:30:00,45.81982,4.311937,1,Natural vegetation,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+Charpassonne Château de Donzy,43,21,23,21,23,21:00:00,23:00:00,45.745372,4.27681,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+Charpassonne la Jamarie,4,22,25,22,1,22:00:00,01:00:00,45.807908,4.319506,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+Charpassonne la Valette,4,16,26,16,2,16:00:00,02:00:00,45.765039,4.29147,1,Natural vegetation,1,Natural vegetation,0.6666666666666666,0,0,0.3333333333333333,0,0.3333333333333333,TRUE,Natural-dominated
+Charpassonne le Tél,38,21.5,21,21.5,21,21:30:00,21:00:00,45.804494,4.316504,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+Charpassonne Moulin de Ronzy,9,19,19,19,19,19:00:00,19:00:00,45.784910000000004,4.314855,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+Charpassonne Moulin Marcel,21,25,22,1,22,01:00:00,22:00:00,45.825752,4.305821,1,Natural vegetation,1,Natural vegetation,0.75,0.25,0,0,0,0.25,FALSE,Natural-dominated
+Coise la Bruyere,55,19,32,19,8,19:00:00,08:00:00,45.62501,4.552785,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+Coizet,21,16,20,16,20,16:00:00,20:00:00,45.625713,4.50712,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+Curraize,2,20,21.5,20,21.5,20:00:00,21:30:00,45.580995,4.171648,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+Doise,29,18,25,18,1,18:00:00,01:00:00,45.736709,4.296509,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+Fontbonne aval,8,22,26.5,22,2.5,22:00:00,02:30:00,45.820128,4.342175,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+Fontbonne Bessenay,34,16,25,16,1,16:00:00,01:00:00,45.826535,4.369788,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+Fowey_Restormel,8,20.5,20,20.5,20,20:30:00,20:00:00,50.4309,-4.6788,1,Natural vegetation,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+FP01,229,21,25,21,1,21:00:00,01:00:00,50.917653,-1.645012,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+FP02,12,26.5,23,2.5,23,02:30:00,23:00:00,50.68963,-2.225391,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+FP06,52,27,23,3,23,03:00:00,23:00:00,50.78564,-2.316285,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+FP11,27,27,23,3,23,03:00:00,23:00:00,50.68115,-2.189257,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+FP12,17,17,23,17,23,17:00:00,23:00:00,50.71317,-2.414234,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+FP15,26,30,23,6,23,06:00:00,23:00:00,50.79024,-2.582322,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+FP21,39,27.5,23,3.5,23,03:30:00,23:00:00,50.68799,-2.124167,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+FP22,93,23,23,23,23,23:00:00,23:00:00,50.74038,-2.254687,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+FP23,54,26,23,2,23,02:00:00,23:00:00,50.76695,-2.400529,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+FP26,108,27,26,3,2,03:00:00,02:00:00,50.79749,-2.523172,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+FP31,9,30,23,6,23,06:00:00,23:00:00,50.77655,-2.576124,2,Cropland,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+Le Rieu,30,19,20,19,20,19:00:00,20:00:00,45.625399,4.55312,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+Loise amont Doise Salt,13,25,24.5,1,0.5,01:00:00,00:30:00,45.737758,4.29548,1,Natural vegetation,1,Natural vegetation,0.5,0,0,0.5,0,0.5,TRUE,Ag-dominated
+Loise Essertine en Donzy,15,21,23,21,23,21:00:00,23:00:00,45.752768,4.327479,2,Cropland,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+Mare Pont du diable,19,23.5,25.5,23.5,1.5,23:30:00,01:30:00,45.490166,4.133384,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+mercier amont presles,1,15,15,15,15,15:00:00,15:00:00,45.7549898,4.6686959,1,Natural vegetation,2,Cropland,0,0.5,0,0.5,0,1,TRUE,Urban-dominated
+miloniere,2,22.5,19,22.5,19,22:30:00,19:00:00,45.717876,4.6293848,1,Natural vegetation,1,Natural vegetation,0.5,0.25,0,0.25,0,0.5,TRUE,Natural-dominated
+morcilles,6,25.5,25,1.5,1,01:30:00,01:00:00,46.1259817,4.7009917,2,Cropland,1,Natural vegetation,0.75,0,0,0.25,0,0.25,FALSE,Natural-dominated
+Moulin Piquet aval,21,25,22,1,22,01:00:00,22:00:00,45.806483,4.319036,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+PL09,39,23.5,23,23.5,23,23:30:00,23:00:00,51.46858,-1.440655,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+PL15,32,25,23,1,23,01:00:00,23:00:00,51.41088,-1.325613,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+PL17,160,21,22,21,22,21:00:00,22:00:00,51.43531,-1.205849,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+PL18,202,23,27,23,3,23:00:00,03:00:00,51.45344,-1.227842,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
+PL19,125,22,23,22,23,22:00:00,23:00:00,51.46838,-1.085784,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+PL20,84,19,23,19,23,19:00:00,23:00:00,51.44261,-1.157162,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+ratier amont charbonnieres,1,22,NA,22,NA,22:00:00,NA,45.7581675,4.7554872,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+ratier amont ribes,1,31,31,7,7,07:00:00,07:00:00,45.7558605,4.7437924,3,Urban,3,Urban,0,0.75,0,0.25,0,1,TRUE,Urban-dominated
+sallarin,8,19,22.5,19,22.5,19:00:00,22:30:00,46.0550185,4.651791,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+st didier,2,22.5,27.5,22.5,3.5,22:30:00,03:30:00,46.1658245,4.5684728,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+Stour_Wixoe,12,24,22.5,0,22.5,00:00:00,22:30:00,52.0571,0.4997,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+TE05,34,23,23,23,23,23:00:00,23:00:00,52.87967,-2.554205,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+TE09,43,25,23,1,23,01:00:00,23:00:00,52.8052,-2.522106,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+TE16,12,26,23,2,23,02:00:00,23:00:00,52.94308,-2.437456,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+TE20,17,20,23,20,23,20:00:00,23:00:00,52.79611,-2.544244,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+TE22,30,21.5,31,21.5,7,21:30:00,07:00:00,52.87967,-2.554205,1,Natural vegetation,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+Thames_Taplow,6,21.5,23,21.5,23,21:30:00,23:00:00,51.5366,-0.698,3,Urban,3,Urban,0,1,0,0,0,1,TRUE,Urban-dominated
+thielas,1,21,21,21,21,21:00:00,21:00:00,46.1103645,4.6113778,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+thiollet,1,17,23,17,23,17:00:00,23:00:00,45.7144619,4.5749122,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+Toranche aval,87,20,23,20,23,20:00:00,23:00:00,45.685126,4.215967,2,Cropland,2,Cropland,0,0,0,1,0,1,TRUE,Ag-dominated
+Toranche St Cyr les Vignes,32,20,29,20,5,20:00:00,05:00:00,45.673081,4.301466,1,Natural vegetation,1,Natural vegetation,0.6666666666666666,0,0,0.3333333333333333,0,0.3333333333333333,TRUE,Natural-dominated
+Trout Beck_ Calgaith,6,21.5,23,21.5,23,21:30:00,23:00:00,54.3955,-2.92045,1,Natural vegetation,1,Natural vegetation,0.75,0,0.25,0,0,0,FALSE,Natural-dominated
+vernus,10,18,21,18,21,18:00:00,21:00:00,46.1429728,4.6500288,1,Natural vegetation,1,Natural vegetation,1,0,0,0,0,0,FALSE,Natural-dominated
+Vizézy amont Bullieux,33,23,26,23,2,23:00:00,02:00:00,45.638865,4.104924,2,Cropland,2,Cropland,0.25,0,0,0.75,0,0.75,TRUE,Ag-dominated
